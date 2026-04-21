@@ -4,16 +4,16 @@ def simplecalculator(a,s,b):
         if s in symbol_list:
             if(s=='+'):
                 sum=a+b
-                return sum
+                return f'Addition of two number is:{sum}'
             elif(s=='-'):
                 sub=a-b
-                return sub
+                return f'Substraction of two number is:{sub}'
             elif(s=='*'):
                 mul=a*b
-                return mul
+                return f'Multiplication of two number is:{mul}'
             elif(s=='/'):
                 div=a//b
-                return div
+                return f'Division of two number is:{div}'
         else:
             return 'Please enter a valid operation symbol..'
     except ZeroDivisionError:
