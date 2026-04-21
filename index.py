@@ -1,12 +1,12 @@
-# name=input('Enter a Name:')
+name=input('Enter a Name:')
 
-# print(name)
+print(name)
 
-# def hello(first_name,last_name):
-#     print('First Name: ',first_name)
-#     print('Last Name: ',last_name)
+def hello(first_name,last_name):
+    print('First Name: ',first_name)
+    print('Last Name: ',last_name)
 
-# hello(last_name='Senapati',first_name='Goutam')
+hello(last_name='Senapati',first_name='Goutam')
 
 msg='Hello world'
 def greet():
@@ -14,3 +14,10 @@ def greet():
 
 print(msg,'in global')
 greet()
+
+a=[1,2,3,4]
+def hello(a):
+    a.append(4)
+    print(a)
+hello(a)    
+print(a)
