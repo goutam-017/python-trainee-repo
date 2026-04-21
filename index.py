@@ -2,10 +2,15 @@
 
 # print(name)
 
+# def hello(first_name,last_name):
+#     print('First Name: ',first_name)
+#     print('Last Name: ',last_name)
 
+# hello(last_name='Senapati',first_name='Goutam')
 
-def hello(first_name,last_name):
-    print('First Name: ',first_name)
-    print('Last Name: ',last_name)
+msg='Hello world'
+def greet():
+    print(msg,'in local')
 
-hello(last_name='Senapati',first_name='Goutam')
+print(msg,'in global')
+greet()
