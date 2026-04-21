@@ -3,20 +3,24 @@ def simplecalculator(a,s,b):
         symbol_list=['+', '-', '*', '/']
         if s in symbol_list:
             if(s=='+'):
-                print(a+b)
+                sum=a+b
+                return sum
             elif(s=='-'):
-                print(a-b)
+                sub=a-b
+                return sub
             elif(s=='*'):
-                print(a*b)
+                mul=a*b
+                return mul
             elif(s=='/'):
-                print(a//b)
+                div=a//b
+                return div
         else:
-            print('Please enter a valid operation symbol..')
+            return 'Please enter a valid operation symbol..'
     except ZeroDivisionError:
-        print('Error: Denominator cannot be 0.')
+        return 'Error: Denominator cannot be 0.'
 
 a=int(input('Enter the first number: '))
 s=input('Enter which operation you want (+, -, *, /) : ')
 b=int(input('Enter the second number: '))
 
-simplecalculator(a,s,b)
+print(simplecalculator(a,s,b))
