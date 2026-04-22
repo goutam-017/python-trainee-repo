@@ -1,4 +1,4 @@
-def simplecalculator(a,s,b):
+def simplecalculator(a,b,s):
     try:
         symbol_list=['+', '-', '*', '/']
         if s in symbol_list:
@@ -22,7 +22,7 @@ def simplecalculator(a,s,b):
     except ZeroDivisionError:
         return 'Error: Cannot divide by zero. Please enter a non-zero number.'
 
-a=eval(input('Enter the first number: '))
-b=eval(input('Enter the second number: '))
-s=input('Enter which operation you want (+, -, *, /) : ')
-print(simplecalculator(a,s,b))
+first_num=eval(input('Enter the first number: '))
+second_num=eval(input('Enter the second number: '))
+symbol=input('Enter which operation you want (+, -, *, /) : ')
+print(simplecalculator(first_num,second_num,symbol))
