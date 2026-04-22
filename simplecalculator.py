@@ -20,7 +20,7 @@ def simplecalculator(a,s,b):
         else:
             return 'Please enter a valid operation symbol..'
     except ZeroDivisionError:
-        return 'Error: Denominator cannot be 0.'
+        return 'Error: Cannot divide by zero. Please enter a non-zero number.'
 
 a=eval(input('Enter the first number: '))
 b=eval(input('Enter the second number: '))
