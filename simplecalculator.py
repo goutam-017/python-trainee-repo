@@ -12,11 +12,7 @@ def simplecalculator(a,s,b):
                 mul=a*b
                 return f'Multiplication of two number is: {mul}'
             elif(s=='/'):
-                if(type(a)==float and type(b)==float):
-                    div=a/b
-                elif(type(a)==float and type(b)==int):
-                    div=a/b
-                elif(type(a)==int and type(b)==float):
+                if((type(a)==float and type(b)==float) or (type(a)==float and type(b)==int) or (type(a)==int and type(b)==float)):
                     div=a/b
                 else:
                     div=a//b
