@@ -1,0 +1,84 @@
+START PROGRAM
+IMPORT os, datetime, timedelta modules which are used in program
+
+FUNCTION main()
+
+Define directories path
+Define number of days
+Call scan_directories(directories, days)
+Store result in stale_files varible
+Call generate_report(stale_files)
+Store result in report
+Call print_report(report)
+
+END main() FUNCTION
+
+FUNCTION get_file_info(filepath)
+
+Get file details using os.stat(filepath)
+RETURN:file path,file name,file size,file extension,last modified date
+
+END FUNCTION
+
+FUNCTION is_stale(file_time, days)
+
+Calculate cutoff date using current date - given days
+IF file modified date is older than cutoff date THEN
+    RETURN True
+ELSE
+    RETURN False
+END IF
+
+END FUNCTION
+
+FUNCTION scan_directories(directories, days)
+
+Create empty stale_files list
+FOR each directory in directories
+    Traverse all folders and files using os.walk()
+    FOR each file
+        Create full file path
+        TRY
+            Call get_file_info(filepath)
+            Call is_stale(last_modified, days)
+            IF file is stale THEN
+                Add file info into stale_files list
+            END IF
+        CATCH error
+            Print error message
+        END TRY
+    END FOR
+END FOR
+RETURN stale_files
+
+END FUNCTION
+
+FUNCTION generate_report(stale_files)
+
+Calculate total number of stale files
+Calculate total size of stale files
+
+RETURN report in form of dictionary
+
+END FUNCTION
+
+FUNCTION print_report(report)
+
+FOR each file in report
+    Print file name
+    Print file type
+    Print file size
+    Print modified date
+END FOR
+Print total files
+Print total size
+
+END FUNCTION
+
+Check:
+IF __name__ == "__main__":
+if give True
+Call main()
+END IF
+
+END PROGRAM

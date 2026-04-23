@@ -1,50 +1,54 @@
-name=input('Enter a Name:')
+import os
 
-print(name)
+# name=input('Enter a Name:')
 
-def hello(first_name,last_name):
-    print('First Name: ',first_name)
-    print('Last Name: ',last_name)
+# print(name)
 
-hello(last_name='Senapati',first_name='Goutam')
+# def hello(first_name,last_name):
+#     print('First Name: ',first_name)
+#     print('Last Name: ',last_name)
 
-msg='Hello world'
-def greet():
-    print(msg,'in local')
+# hello(last_name='Senapati',first_name='Goutam')
 
-print(msg,'in global')
-greet()
+# msg='Hello world'
+# def greet():
+#     print(msg,'in local')
 
-a=[1,2,3,4]
-def hello(a):
-    a.append(4)
-    print(a)
-hello(a)    
-print(a)
+# print(msg,'in global')
+# greet()
 
-
-functions = []
-
-for i in range(4):
-    functions.append(lambda j=i: j)
-print(type(functions))
-print(type(functions[0]))
-print(functions[0]())
-for f in functions:
-    print(f())
+# a=[1,2,3,4]
+# def hello(a):
+#     a.append(4)
+#     print(a)
+# hello(a)    
+# print(a)
 
 
-a='goutam'
-b='goutam'
-a=[1,2,3]
-b=[1,2,3]
-print(id(a))
-print(id(b))
+# functions = []
 
-print(a == b)
-print(a is b)
+# for i in range(4):
+#     functions.append(lambda j=i: j)
+# print(type(functions))
+# print(type(functions[0]))
+# print(functions[0]())
+# for f in functions:
+#     print(f())
 
-nums = [x*x for x in range(5)]
-gen = (x*x for x in range(5))
-print(nums)
-print(gen)
+
+# a='goutam'
+# b='goutam'
+# a=[1,2,3]
+# b=[1,2,3]
+# print(id(a))
+# print(id(b))
+
+# print(a == b)
+# print(a is b)
+
+# nums = [x*x for x in range(5)]
+# gen = (x*x for x in range(5))
+# print(nums)
+# print(gen)
+
+print(os.getcwd())
