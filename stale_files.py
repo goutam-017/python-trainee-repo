@@ -48,7 +48,9 @@ def scan_directories(directories, days):
 
 def generate_report(stale_files):
     total_files = len(stale_files)
-    total_size = sum(file["size"] for file in stale_files)
+    total_size = 0
+    for file in stale_files:
+        total_size+=file['size']
 
     return {
         "files": stale_files,
