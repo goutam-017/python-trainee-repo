@@ -60,12 +60,7 @@ def generate_report(stale_files):
 
 def print_report(report):
     for file in report["files"]:
-        print(
-            f"{file['name']} | "
-            f"{file['type']} | "
-            f"{file['size']} bytes | "
-            f"{file['last_modified']}"
-        )
+        print(f"{file['name']} | {file['type']} | {file['size']} bytes | {file['last_modified']}")
 
     print("\nSummary:")
     print("Total stale files:", report["total_files"])
