@@ -8,9 +8,11 @@ def main():
     days=int(input("Enter days: "))
     stale_files = scan_directories(directories, days)
     if len(stale_files)==0:
-        return "NO stale files found"
-    report = generate_report(stale_files)
-    print_report(report)
+        print("NO stale files found")
+        return
+    else:
+        report = generate_report(stale_files)
+        print_report(report)
 
 def get_file_info(filepath):
     file_detail=os.stat(filepath)
@@ -69,4 +71,4 @@ def print_report(report):
 
 
 if __name__ == "__main__":
-    print(main())
+    main()
