@@ -2,8 +2,8 @@ import mechanicalsoup
 import time
 
 url='https://web-scraping.dev/products'
-brower=mechanicalsoup.Browser()
-page=brower.get(url)
+browser=mechanicalsoup.Browser()
+page=browser.get(url)
 soup=page.soup
 tag=soup.select('title')[0]
 result=tag.text

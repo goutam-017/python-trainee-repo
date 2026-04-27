@@ -2,8 +2,8 @@ import mechanicalsoup
 import time
 
 url='https://books.toscrape.com/'
-brower=mechanicalsoup.Browser()
-page=brower.get(url)
+browser=mechanicalsoup.Browser()
+page=browser.get(url)
 soup=page.soup
 books = soup.find_all("article", class_="product_pod")
 print("This is a Book price Scraper Programming.")
