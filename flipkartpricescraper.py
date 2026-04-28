@@ -14,3 +14,4 @@ for p in products:
     name=p.select_one('h3').text
     price=p.select_one('.price').text
     print(name,':-',price)
+    time.sleep(2)
