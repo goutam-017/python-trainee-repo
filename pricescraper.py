@@ -1,11 +1,9 @@
 from groq import Groq
 import mechanicalsoup
-import time
 import csv
 import os
 
 url='https://books.toscrape.com/'
-
 
 def web_scraper(url):
     browser=mechanicalsoup.Browser()
@@ -18,9 +16,8 @@ def web_scraper(url):
     for book in books:
         name=book.h3.a['title']
         price=book.find('p',class_='price_color').text
-        print(name,":-",price)
+        print(f'{name}:- {price}')
         book_list.append([name,price])
-        # time.sleep(2)
     return book_list
 
 def create_csv_file(book_list,file):
@@ -43,10 +40,11 @@ def read_csv_file(file):
         next(read)
         for i in read:
             book_name=i[1]
-            price=float(i[2].replace('£', ''))
+            symbol=i[2][0]
+            price=float(i[2].replace(symbol, ''))
             price_list.append(price)
             csv_data.append([book_name,i[2]])
-    return price_list,csv_data
+    return price_list,csv_data,symbol
     
 
 def get_price_calculation(price_list):
@@ -66,12 +64,12 @@ def main(url):
     try:
         book_list=web_scraper(url)
         file=create_csv_file(book_list,'price.csv')
-        price_list,csv_data=read_csv_file(file)
+        price_list,csv_data,symbol=read_csv_file(file)
         result=get_price_calculation(price_list)
         print()
-        print(f'Total price: £{result['total_price']}')
-        print(f'Average price: £{result['average_price']}')
-        print(f'Maximum price between all the books: £{result['maximum_price']}')
+        print(f'Total price: {symbol}{result['total_price']}')
+        print(f'Average price: {symbol}{result['average_price']}')
+        print(f'Maximum price between all the books: {symbol}{result['maximum_price']}')
         print("\n")
         llm_price_calculation(csv_data)
     except Exception as e:
@@ -79,24 +77,28 @@ def main(url):
 
 def llm_price_calculation(csv_data):
     prompt="""
-Analyze the provided CSV dataset containing book data with columns SN, Book Name, Price. Treat the Price column as numeric values. Perform complete data analysis and calculations based only on the CSV data.
+Analyze the CSV file with columns SN, Book Name, Price. Treat Price as numeric.
 
-Tasks to perform:
-Calculate the total sum of all book prices.
-Calculate the average (mean) price.
-Find the highest priced book with its name and price.
-Find the lowest priced book with its name and price.
-Count the total number of books.
-Show books with price above average.
-Show books with price below average.
-If needed, calculate median price and sorted price list.
-
-Return the result in a clean, structured format with labels. Use accurate mathematical calculations.
+Tasks:
+Total price sum
+Average price
+Highest-priced book (name + price)
+Lowest-priced book (name + price)
+Total number of books
+Books above average price
+Books below average price
+Median price
+Sorted price list
+Currency Tasks:
+Identify the currency symbol and its country/currency name
+Convert all prices to Indian Rupees (INR) using the latest/provided exchange rate
+Repeat the same analysis for INR prices
 """
     client=Groq(api_key=os.getenv("API_KEY"))
     response=client.chat.completions.create(
         model="openai/gpt-oss-120b",
         messages=[{"role":"user","content":f'{csv_data},{prompt}'}],
+        max_completion_tokens=8000
     )
     print(response.choices[0].message.content)
 
