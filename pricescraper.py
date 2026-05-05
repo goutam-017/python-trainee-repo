@@ -77,22 +77,21 @@ def main(url):
 
 def llm_price_calculation(csv_data):
     prompt="""
-Analyze the CSV file with columns SN, Book Name, Price. Treat Price as numeric.
-
+Analyze data set with Book Name, Price. Price numeric.
 Tasks:
-Total price sum
+Total sum
 Average price
-Highest-priced book (name + price)
-Lowest-priced book (name + price)
-Total number of books
-Books above average price
-Books below average price
+Highest book (name + price)
+Lowest book (name + price)
+Total books
+Above average books
+Below average books
 Median price
-Sorted price list
-Currency Tasks:
-Identify the currency symbol and its country/currency name
-Convert all prices to Indian Rupees (INR) using the latest/provided exchange rate
-Repeat the same analysis for INR prices
+Sorted prices
+Currency:
+Detect symbol, country, currency name
+Convert all prices to INR (latest/provided rate)
+Repeat all analysis for INR prices
 """
     client=Groq(api_key=os.getenv("API_KEY"))
     response=client.chat.completions.create(
