@@ -1,0 +1,64 @@
+MEDICAL REPORT
+==============================
+
+Patient Name   : Rahul Sharma
+Patient ID     : P12345
+Age / Gender   : 32 / Male
+Date           : 29-Apr-2026
+
+--------------------------------
+CHIEF COMPLAINT
+--------------------------------
+Fever, cough, and weakness for 3 days.
+
+--------------------------------
+VITAL SIGNS
+--------------------------------
+Temperature    : 101.2 °F
+Blood Pressure : 120/80 mmHg
+Pulse Rate     : 82 bpm
+Respiratory Rate: 18/min
+Oxygen Saturation: 98%
+
+--------------------------------
+PHYSICAL EXAMINATION
+--------------------------------
+General Condition : Alert and oriented
+Chest             : Mild throat congestion
+Heart             : Normal heart sounds
+Abdomen           : Soft, non-tender
+
+--------------------------------
+LAB TEST RESULTS
+--------------------------------
+CBC               : Normal
+Blood Sugar       : 96 mg/dL
+Urine Test        : Normal
+COVID Test        : Negative
+
+--------------------------------
+DIAGNOSIS
+--------------------------------
+Viral Upper Respiratory Infection
+
+--------------------------------
+PRESCRIPTION
+--------------------------------
+1. Paracetamol 650 mg - Twice daily after food
+2. Cough Syrup 5 ml - Three times daily
+3. Steam Inhalation - Twice daily
+4. Drink plenty of fluids and rest
+
+--------------------------------
+FOLLOW-UP
+--------------------------------
+Review after 5 days if symptoms persist.
+
+--------------------------------
+DOCTOR DETAILS
+--------------------------------
+Doctor Name : Dr. John Smith
+Reg. No.    : MED45872
+Hospital    : City Care Clinic
+
+Signature: John Smith, MD
