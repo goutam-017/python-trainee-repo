@@ -1,5 +1,6 @@
 import os
 import re
+import spacy
 
 # name=input('Enter a Name:')
 
@@ -53,3 +54,28 @@ import re
 # print(gen)
 
 # print(os.getcwd())
+
+# s='Python is very powerfull'.split()
+# count=0
+# j=0
+# for i in s:
+#     if(len(i)>count):
+#         count=len(i)
+#         j=s.index(i)
+
+# print(f'Longest string is {s[j]}')
+
+# l=[7,[4,[5,[6,4],[2,8]],[3]]]
+# result = []
+# def flatten(data):
+#     for i in data:
+#         if type(i) == list:
+#             flatten(i)
+#         else:
+#             result.append(i)
+# flatten(l)
+# print(result)
+
+txt = "The rain in Spain"
+x = re.search(r"\bS\w+", txt)
+print(x.span())
