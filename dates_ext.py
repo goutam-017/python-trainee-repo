@@ -2,9 +2,10 @@ import re
 import os
 import json
 
-folder_path=r"C:\Users\hp\Desktop\Python Training\raw"
+folder_path=r"C:\Users\hp\Desktop\Python Training\PDFsCODE_output"
 pattern_date=[r"\d{1,2}\s*[/-]\s*\d{1,2}\s*[/-]\s*\d{4}",
-              r"\d{4}\s*[/-]\s*\d{1,2}\s*[/-]\s*\d{1,2}"]
+              r"\d{4}\s*[/-]\s*\d{1,2}\s*[/-]\s*\d{1,2}",
+              r"[A-Za-z]{3}\s*\d{1,2}\s*[,]\s*\d{4}"]
 
 date_types = {
     "DOB": "Date of Birth",
@@ -71,7 +72,7 @@ def main(folder_path,pattern_date,date_types):
     for d in dates:
         all_dates.append(d)
     os.makedirs("expected", exist_ok=True)
-    with open("expected/final_entities.json", "w") as f:
+    with open("expected/final_entities1.json", "w") as f:
         json.dump(all_dates, f, indent=4)
     print("JSON file saved successfully")
 

@@ -1,0 +1,3318 @@
+Complete Care Centers, LLC
+Medical Records and BillingComplete Care Centers - Billing Statement
+Patient Patient Acct No
+Polanco, Divardy 255890
+Case Facility Service CPT CPT Description Billed Total Contractual Writeoff Deductible CoIns Balance
+ID Date Code Charge Payment Adjustment Adjustment
+29454 Injury Jan 29, 99442 PHONE E/M BY $267.84 $0.00 $0.00 $0.00 $0.00 $0.00 $267.84
+Care & 2025 PHYS 11-20 MIN
+Rehab
+Lake
+Mary
+Injury Care & Rehab Lake Mary - Total $267.84 $0.00 $0.00 $0.00 $0.00 $0.00 $267.84
+Injury Feb 3, 97012 MECHANICAL $41.46 $0.00 $0.00 $0.00 $0.00 $0.00 $41.46
+Care & 2025 TRACTION
+Rehab
+THERAPY
+Lakeland
+97110 THERAPEUTIC $85.83 $0.00 $0.00 $0.00 $0.00 $0.00 $85.83
+EXERCISES
+97150 GROUP $52.95 $0.00 $0.00 $0.00 $0.00 $0.00 $52.95
+THERAPEUTIC
+PROCEDURES
+97530 THERAPEUTIC $106.41 $0.00 $0.00 $0.00 $0.00 $0.00 $106.41
+ACTIVITIES
+98941 CHIROPRACTIC $115.56 $0.00 $0.00 $0.00 $0.00 $0.00 $115.56
+MANIPULATION
+Injury Care & Rehab Lakeland - Total $402.21 $0.00 $0.00 $0.00 $0.00 $0.00 $402.21
+Injury Jan 20, 72100 X-RAY EXAM OF $115.02 $0.00 $0.00 $0.00 $0.00 $0.00 $115.02
+Care & 2025 LOWER SPINE
+Rehab
+Winter 99203 Office Visit, $332.46 $0.00 $0.00 $0.00 $0.00 $0.00 $332.46
+Haven New Pt., Level 3
+Jan 27, 98941 CHIROPRACTIC $115.56 $0.00 $0.00 $0.00 $0.00 $0.00 $115.56
+2025 MANIPULATION
+J3490 Zylotrol $354.75 $0.00 $0.00 $0.00 $0.00 $0.00 $354.75
+L0642 LUMB ORTHOS $905.64 $0.00 $0.00 $0.00 $0.00 $0.00 $905.64
+SAGIT CTRL
+ANT POST PNL
+Jan 31, 73030 X-RAY EXAM OF $100.71 $0.00 $0.00 $0.00 $0.00 $0.00 $100.71
+2025 SHOULDER
+98941 CHIROPRACTIC $115.56 $0.00 $0.00 $0.00 $0.00 $0.00 $115.56
+MANIPULATION
+99213 Office Visit, Est $269.31 $0.00 $0.00 $0.00 $0.00 $0.00 $269.31
+Pt., Level 3
+G0283 E-STIM 1/>NOT $34.47 $0.00 $0.00 $0.00 $0.00 $0.00 $34.47
+WND CARE
+PART TX PLAN
+Feb 1, 97012 MECHANICAL $41.46 $0.00 $0.00 $0.00 $0.00 $0.00 $41.46
+2025 TRACTION
+THERAPY
+Feb 4, 2025 - 1 - 9:45:56 AMComplete Care Centers - Billing Statement
+Case Facility Service CPT CPT Description Billed Total Contractual Writeoff Deductible CoIns Balance
+ID Date Code Charge Payment Adjustment Adjustment
+29454 Injury Feb 1, 97110 THERAPEUTIC $85.83 $0.00 $0.00 $0.00 $0.00 $0.00 $85.83
+Care & 2025 EXERCISES
+Rehab
+Winter 97150 GROUP $52.95 $0.00 $0.00 $0.00 $0.00 $0.00 $52.95
+Haven THERAPEUTIC
+PROCEDURES
+97530 THERAPEUTIC $106.41 $0.00 $0.00 $0.00 $0.00 $0.00 $106.41
+ACTIVITIES
+98941 CHIROPRACTIC $115.56 $0.00 $0.00 $0.00 $0.00 $0.00 $115.56
+MANIPULATION
+Injury Care & Rehab Winter Haven - Total $2,745.69 $0.00 $0.00 $0.00 $0.00 $0.00 $2,745.69
+- Total
+29454 - Total $3,415.74 $0.00 $0.00 $0.00 $0.00 $0.00 $3,415.74
+- Total
+- Total
+Overall - Total $3,415.74 $0.00 $0.00 $0.00 $0.00 $0.00 $3,415.74
+Feb 4, 2025 - 2 - 9:45:56 AMPOLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exam]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 1 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exam]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 2 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exam]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 3 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exam]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 4 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exam]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 5 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exam]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 6 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exam]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 7 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exam]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 8 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exam]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 9 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exam]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 10 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:01-31-25 Divardy Polanco - TC and TG]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 11 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:01-31-25 Divardy Polanco - TC and TG]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 12 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:01-31-25 Divardy Polanco - TC and TG]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 13 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:01-31-25 Divardy Polanco - TC and TG]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 14 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:1.27.25 Divardy Polanco LMN LSO]
+LSO – Brace: LMN
+Patient Name: Polanco, Divardy Date of Service:
+01/27/2025
+Type of Bracing
+Type of Bracing required:
+L0642- Lumbar orthosis, sagittal control, with rigid anterior and posterior panels, posteiror extends from L-1 to
+below L-5 vertebra, produces intracavitary pressure to reduce load on the intevertebral discs, includes straps, closures,
+may include padding, shoulder straps, pendulous abdomen design, prefabricated, off the shelf.
+Diagnosis
+Onset of Dx: 1/15/2025 MVC
+Diagnosis Codes:
+Cervical radicular pain - M54.12 (Primary) Sprain of ligaments of thoracic spine, initial encounter - S23.3XXA Acute
+post-traumatic headache, not intractable - G44.319 Muscle weakness - M62.81 Other specified dorsopathies, cervical region -
+M53.82 Muscle spasm - M62.838 Joint stiffness - M25.60 Paresthesia of lower extremity - R20.2 Other fatigue - R53.83 Lumbar
+radicular pain - M54.16
+Indications & Expected Benefits
+Adjunctive treatment to facilitate healing S/P injury to spine or soft tissues
+Support weak spinal muscles and / or deformed spine
+Significantly increase mobility without pain
+Relaxation of muscle spasm
+Significant reduction of pain
+Duration of need, Prognosis, Alternative Modalities Used
+Duration of need: PRN Pain
+Prognosis: Good Alternative
+Modalities Used:
+Stretching Manual Therapies
+Instructions for Use
+Frequency of use: 1+ times per day and PRN
+Length of use: 6+ months
+Time of treatment: 4-6 hours and PRN
+The Lumbar-sacral Orthosis, helps alleviate pain and speed rehabilitation by providing effective stabilization and
+unloading on the spine. It has sagittal control, with rigid anterior and posterior panels, posterior extends from
+sacrococcygeal junction to T-9 vertebra, produces intracavitary pressure to reduce load on the intervertebral discs,
+includes straps, closures, may include padding, shoulder straps, pendulous abdomen design, and is prefabricated.
+By signing below, all parties confirm that education of the indications, contraindications, risks and expected benefits for
+use of this unit has been provided and discussed. Additionally, signing the bottom confirms that all questions have been
+answered to the patient's satisfaction.
+A COPY OF THIS DOCUMENT SHALL BE RETAINED BY THE PHYSICIAN IN THE PATIENT'S MEDICAL RECORD
+Provider′s Signature
+PPaaggee ooff 22
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 15 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:1.27.25 Divardy Polanco LMN LSO]
+PPaaggee ooff 22
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 16 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:1.27.25 Divardy Polanco LMN LIDO]
+Lidocaine Patch: LMN
+Patient Name: Polanco, Divardy Date of Service:
+01/27/2025
+Diagnosis
+Onset of Dx: 1/15/2025 MVC
+Diagnosis Codes:
+Cervical radicular pain - M54.12 (Primary) Sprain of ligaments of thoracic spine, initial encounter - S23.3XXA Acute
+post-traumatic headache, not intractable - G44.319 Muscle weakness - M62.81 Other specified dorsopathies, cervical region -
+M53.82 Muscle spasm - M62.838 Joint stiffness - M25.60 Paresthesia of lower extremity - R20.2 Other fatigue - R53.83 Lumbar
+radicular pain - M54.16
+Indications & Expected Benefits
+Adjunctive treatment in the management of post-traumatic acute pain.
+Reduce use of NSAIDS.
+Significant reduction of pain.
+Duration of need, Prognosis, Alternative Modalities Used
+Duration of need: PRN Pain
+Prognosis: Good
+Alternative Modalities Used: Stretching and Hot / Cold Therapies .
+Instructions for Use
+Frequency of Use: 1-3x per day and PRN
+Length of Use: 7 days
+Time of Treatment: 8 hours
+A 7-day supply of lidocaine patches was issued to the patient. A topical treatment that can be used alone or with other medi
+cations to treat pain. Lidocaine penetrates directly into the skin to reach the damaged nerves to help provide relief at the sit e
+of the pain. Patient was prescribed lidocaine patch with lidocaine 4% and menthol 1%.
+Utilizing accepted medical practice standards, the above-prescribed topical analgesic is essential in the continuous treatme nt
+of this patient. The lidocaine patches were shown to the patient and the patient was instructed on how to apply them to ar eas
+of treatment. By signing below, all parties confirm that education of the indications, contraindications, risks and expecte d
+benefits for use of this product has been provided and discussed. Additionally, signing the bottom confirms that all questio ns
+have been answered to the patient's satisfaction.
+Provider′s Signature:
+A COPY OF THIS DOCUMENT SHALL BE RETAINED BY THE PHYSICIAN IN THE PATIENT'S MEDICAL RECORD
+PPaaggee ooff 22
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 17 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:1.27.25 Divardy Polanco LMN LIDO]
+PPaaggee ooff 22
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 18 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:1.27.25 Divardy Polanco EP Form]
+Equipment / Supplies Provided
+Qty. Description/HCPCS Serial/Lot/Model No. Amount/Charge Co-Pay Amount
+Lidocaine Patches $23.65 per unit $70.95 all 15 units
+15 (J3490) Lot #202042427
+NDC: 8190210415
+1 MLSO (L0642) Lot #CN240607F $905.64 $120.75
+Total Amount Due: $1260.44 ($191.70) – Pending Insurance Verification
+I certify that I have received all of the equipment and supplies listed above in excellent condition. I have been properly
+instructed on how to use and properly take care of the equipment and supplies. I also understand that in the event that
+payment of my co-insurance or deductible amount are not made by my insurance carrier(s), I will be responsible for
+reimbursing COMPLETE CARE CENTERS, LLC and balance owed up to the allowed amount.
+I authorize COMPLETE CARE CENTERS, LLC and employees of COMPLETE CARE CENTERS, LLC to contact me by
+telephone regarding the equipment and supplies I have received, additional items or supplies that I may need and to
+discuss any billing and / or accounts receivable information.
+Patient's Signature:
+Patient Name: Polanco, Divardy
+Staff Signature:
+Staff Name:
+Madeleine O'Rourke
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 19 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:1.27.25 Divardy Polanco TC and TG]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 20 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:1.27.25 Divardy Polanco TC and TG]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 21 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:1.27.25 Divardy Polanco TC and TG]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 22 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-IOT]
+OFFICE OF INSURANCE REGULATION
+Bureau of Property & Casualty Forms and Rates
+Standard Disclosure and Acknowledgement Form
+Personal Injury Protection - Initial Treatment or Service Provided
+The undersigned insured person (or guardian of such person) affirms:
+1. The services or treatment set forth below were actually rendered. This means that those services have already been
+provided.
+E x a m
+2. I have the right and the duty to confirm that the services have already been provided.
+3. I was not solicited by any person to seek any services from the medical provider of the services described above.
+4. The medical provider has explained the services to me for which payment is being claimed.
+5. If I notify the insurer in writing of a billing error, I may be entitled to a portion of any reduction in the amounts paid
+by my motor vehicle insurer. If entitled, my share would be at least 20% of the amount of the reduction, up to $500.
+Insured Person (patient receiving treatment or services) or Guardian of Insured Person:
+Divardy Polanco 1/20/25
+Name (PRINT or TYPE) Signature Date
+The undersigned licensed medical professional or medical director, if applicable, affirms the statement numbered 1 above
+and also:
+A. I have not solicited or caused the insured person, who was involved in a motor vehicle accident, to be solicited to
+make a claim for Personal Injury Protection benefits.
+B. The treatment or services rendered were explained to the insured person, or his or her guardian, sufficiently for that
+person to sign this form with informed consent.
+C. The accompanying statement or bill is properly completed in all material provisions and all relevant information has
+been provided therein. This means that each request for information has been responded to truthfully, accurately, and in
+a substantially complete manner.
+D. The coding of procedures on the accompanying statement or bill is proper. This means that no service has been
+upcoded, unbundled, or constitutes an invalid or not medically necessary diagnostic test as defined by Section
+627.732(14) and (15), Florida Statutes or Section 627.736(5)(b)6, Florida Statutes.
+Licensed Medical Professional Rendering Treatment/Services or Medical Director, if applicable (Signature by his/ her own
+hand):
+B r ia n Rice 1 /20/25
+Name (PRINT or TYPE) Signature Date
+Any person who knowingly and with intent to injure, defraud, or deceive any insurer files a statement of Claim or an
+application containing any false, incomplete, or misleading information is guilty of a felony of the third degree per Section
+817.234(1)(b), Florida Statutes.
+Note: The original of this form must be furnished to the insurer pursuant to Section 627.736(4)(b), Florida Statutes and may
+not be electronically furnished. Failure to furnish this form may result in non-payment of the claim.
+OIR-B1-1571
+Pub. 1/2004
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 23 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-IOT]
+AUTHORIZATION LIEN. IRREVOCABLE ASSIGNMENT OF BENEFITS & CONSENT/GUARANTEE OF PAYMENT
+RELEASE OF INFORMATION: I authorize Complete Care Centers, LLC to release any information pertinent to my case to any
+insurance company, my legal representative(s), or adjuster to facilitate collection under this authorization and assignment. I
+hereby release Complete Care Centers, LLC of any consequences thereof. I authorize Complete Care Centers, LLC and its staff
+to communicate with other doctors as it pertains to my diagnoses or treatment. I also authorize any holder of medical
+chiropractic information about me to release the health care financing administrators or insurance adjustor agents any
+information needed to determine these benefits for related services.
+IRREVOCABLE ASSIGNMENT OF CAUSE OF ACTION: In the event my insurance company is obligated to make payments to me
+or reimburse me for Complete Care Centers, LLC’s health care goods or services rendered to me in connection with or related
+to my injuries or illness, and fails to make such payments or to reimburse me upon demand by me or Complete Care Centers,
+LLC as the assignee of such benefits hereunder, I hereby assign and transfer to Complete Care Centers, LLC any and all causes
+of action that exist in my favor against any said insurance company and authorize Complete Care Centers, LLC to prosecute
+such claims or causes of action as it sees fit as the assignee of such benefits and attendant rights. I agree to cooperate,
+provide information as needed, and appear as needed, wherever to assist in the prosecution of such claims for benefits upon
+request. It is understood that until all reasonable efforts have been made to collect sums due from the insurance company
+(or companies) providing personal injury protection or medical payments coverage insurance benefits to me for my related
+health care expenses, Complete Care Centers, LLC will temporarily refrain from attempts to collect from me those same
+amounts covered by such benefits. I understand however that I am directly responsible for the amounts not covered by such
+benefits, including, for example, required co-payments and any applicable deductibles.
+DIRECTION TO PAY: I authorize and direct my insurance company receiving a copy of this document and/or my legal
+representative(s), to pay directly to Complete Care Centers, LLC any sums as may be due and owing to Complete Care
+Centers, LLC in connection with or related to my injuries or illness for which I receive health care goods and services from
+Complete Care Centers, LLC, and to withhold such sums from any settlement, judgment or verdict obtained on my behalf as
+may be necessary to adequately protect Complete Care Centers, LLC’s right to payment in connection with rendering said
+goods and services to me. I hereby further give a lien to Complete Care Centers, LLC on and against any proceeds of any
+settlement, judgment, or verdict that may be payable to me in connection with or related to the injuries or illness for which I
+receive health care goods and services from Complete Care Centers, LLC.. This is to act as an assignment of my rights and
+benefits to the extent of Complete Care Centers, LLC’s charges for such goods and services provided to me. Further, I hereby
+instruct my insurance company receiving a copy of this document to request that, in the event the subject health care goods,
+services and/or benefits are disputed for any reason, the amount of benefits being claimed by Complete Care Centers, LLC
+are to be held in escrow and not disbursed until the dispute is resolved. Complete Care Centers, LLC is hereby given Special
+Power of Attorney to endorse/sign my name on any and all claim forms for payment of my charges for the goods and services
+I receive from Complete Care Centers, LLC. If my policy prohibits direct payment to the provider, then I hereby also instruct
+and direct you to make checks payable to me and Complete Care Centers, LLC and mail the payment to me, in care of
+Complete Care Centers, LLC, 555 Winderley Pl, Suite 105, Maitland FL 32751.
+NOTIFICATION OF CHANGES: I will notify Complete Care Centers, LLC of any changes in my health status, home and work
+information, or anything else relating to the information on this authorization.
+CONSENT FOR TREATMENT AND GUARANTY OF PAYMENT: I hereby consent to the rendering of health care goods and services
+for me (or my child or ward, as applicable) listed below. I voluntarily consent to examination and x-rays, if medically necessary,
+to aid in evaluating the subject injuries or illness. I declare that I am not pregnant, nor is pregnancy suspected, or, if I am or
+suspect I am pregnant I will immediately inform the person providing me this document and I will write the word
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 24 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-IOT]
+“Pregnant” in large letters on the first page of this document. I also voluntarily authorize the physician(s) treating my injuries
+or illness to treat my condition as they deem appropriate. I hereby direct my legal representative(s) that before any monies
+are released to me, they shall pay out of any proceeds of settlement, judgment or verdict obtained on my behalf the full
+amount of Complete Care Centers, LLC’s unpaid balance for health care goods and services rendered to me in connection
+with the subject injuries or illness. Absent a separate agreement setting forth a payment plan with Complete Care Centers,
+LLC, I understand that if:
+A. There is no insurance company obligated to pay for Complete Care Centers, LLC’s health care goods or services,
+B. The insurance company involved fails to acknowledge an assignment to the assignee or make other provisions for the
+protection of the interest of Complete Care Centers, LLC,
+C. A liability claim exists in connection with my injuries or illness for which I receive services from Complete Care Centers,
+LLC, and my legal representative refuses to agree to protect the interest of Complete Care Centers, LLC in any resulting
+settlement, judgment or verdict, or
+D. A liability claim exists in connection with my injuries or illness for which I received services from Complete Care Centers,
+LLC, and a settlement, judgment or verdict is entered on such claim,
+Then payment for the health care goods and services rendered by Complete Care Centers, LLC to me will be immediate due
+and owing in full. Should I fail to satisfy any balance due to Complete Care in accordance with the forgoing, it may be subject
+to 1.5% per month (18% per year) finance charge. If the default is referred to a collection agency and/or for legal action, I agree
+to pay for reasonable costs of collection, including reasonable attorney fees and costs.
+I waive all statutes of limitation defenses on any claim or cause of action that Complete Care Centers, LLC may have
+or hereafter acquire against me regarding payment for the health care goods and services provided to me, including the
+charges, whether any such claim be in law or equity.
+I understand and agree that Complete Care Centers, LLC is relying on the forgoing promises, agreements, and
+representations in agreeing to render health care goods and services to me, and I agree that such reliance by Complete Care
+Centers, LLC is reasonable. Further, I agree that all the rights given to Complete Care Centers, LLC herein, are and shall constitute
+a grant coupled with an interest, and therefore, among other things, shall be irrevocable by me, the undersigned patient (or
+parent/guardian), and no obligation of mine Complete Care Centers, LLC is or can become delegable to any other person.
+My signature below verifies I have read and understand the above condition of acceptance as a patient (and or
+parent/guardian of the subject patient) at Complete Care Centers, LLC and I agree to these conditions.
+Divardy Polanco 1/20/25
+______________________________________ __________________________________________ __________________
+Patient Name Signature Date
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 25 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 26 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 27 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 28 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 29 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 30 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 31 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 32 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 33 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 34 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 35 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:Shoulder X-ray Report - LEFT 01-31-2025 04:13:28 PM.pdf]
+Polanco, Divardy
+39Y Male, DOB: 09/18/1985
+Account Number: 255890
+505 S Andrea Cir, Haines City, FL 33844
+Insurance: Athens Insurance Services
+Order Name: X ray : Shoulder 2 views Ordering Provider: Weiland, Stephanie
+Order Date: 01/31/2025
+Performed Date: 01/31/2025
+Left Shoulder Plain Film Series
+Date of Study: 01/31/2025
+Date of Read: 01/31/2025
+Exam(s) Performed
+AP Internal Rotation, AP External Rotation, Oblique Y View
+Indication(s) for Study
+Pain Post Motor Vehicle Collision
+Findings
+As visualized acute fracture and gross osteopathology is absent.
+The acromioclavicular joint is intact and within normal limits.
+The glenohumeral joint is intact and within normal limits.
+Joint effusion is absent.
+The surrounding soft tissue is within normal limits.
+Consider MRI for further assessment
+Impression
+1. Consider MRI for further assessment.
+2. Unremarkable study.
+Injury Care & Rehab Winter Haven
+7494 Cypress Gardens Blvd, Winter Haven, FL, 338844104
+Tel: 863-271-4600 Fax: (863) 271-4605
+Patient: Polanco, Divardy DOB: 09/18/1985 Report: Weiland, Stephanie Date: 01/31/2025
+Report generated by eClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 36 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:Lumbar Spine X-ray Report 01-20-2025 03:09:05 PM.pdf]
+Polanco, Divardy
+39Y Male, DOB: 09/18/1985
+Account Number: 255890
+505 S Andrea Cir, Haines City, FL 33844
+Insurance: Patient Legal Lien
+Order Name: X-ray | Lumbosacral 2 to 3 views Ordering Provider: Rice, Brian
+Order Date: 01/20/2025
+Performed Date: 01/20/2025
+Lumbar Spine Plain Film Series
+Date of Study: 01/20/2025
+Date of Read: 01/20/2025
+Exam(s) Performed
+AP, Lateral
+Indication(s) for Study
+Pain Post Motor Vehicle Collision
+Findings
+As visualized, acute fracture and gross osteopathology is absent.
+The normal lumbar lordosis is decreased
+On the AP view, the vertebral column alignment is deviated left .
+IVD height is decreased at: L5/S1 .
+Spondylosis is absent
+Spondylolisthesis is absent.
+IVF spaces are encroached on the left at: L5/S1
+Articular surfaces are intact and within normal limits.
+Impression
+1. Kyphosis of the lumbar spine.
+2. Alignment changes as noted above.
+3. Decreased IVD height as described above.
+4. Foraminal stenosis present as noted above.
+Injury Care & Rehab Winter Haven
+7494 Cypress Gardens Blvd, Winter Haven, FL, 338844104
+Tel: 863-271-4600 Fax: (863) 271-4605
+Patient: Polanco, Divardy DOB: 09/18/1985 Report: Rice, Brian Date: 01/20/2025
+Report generated by eClinicalWorks EMR/PM Software (www.eClinicalWorks.com)
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 37 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:Driver's License 2025-02-01]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 38 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:Driver's License 2025-02-01]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 39 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:2025-01-31 Divardy Polanco-DoctorsNote]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 40 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:2025-01-31-Divardy Polanco- DoctorNote]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 41 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:2025-01-27 Divardy Polanco-DoctorsNote]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 42 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-23 DivardyPolanco-PIPClaimInfo]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 43 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-23 DivardyPolanco-PIPClaimInfo]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 44 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-23 DivardyPolanco-PIPClaimInfo]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 45 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 46 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 47 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 48 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 49 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 50 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 51 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 52 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 53 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 54 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 55 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-DrNote ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 56 of 57POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-MRIScreening ]
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 57 of 57Complete Care Centers, LLC Medical Records and Billing Case Facility Service CPT CPT Description Billed Total Contractual Writeoff Deductible CoIns Balance ID  Date Code  Charge Payment Adjustment Adjustment     Injury Jan 29,   $267.84 $0.00 $0.00 $0.00 $0.00 $0.00 $267.84 29454   99442 PHONE E/M BY         Care & 2025              PHYS 11-20 MIN         Rehab            Lake            Mary             Injury Care & Rehab Lake Mary - Total   $267.84 $0.00 $0.00 $0.00 $0.00 $0.00 $267.84  Injury Feb 3,   $41.46 $0.00 $0.00 $0.00 $0.00 $0.00 $41.46    97012 MECHANICAL         Care & 2025              TRACTION         Rehab               THERAPY         Lakeland                $85.83 $0.00 $0.00 $0.00 $0.00 $0.00 $85.83    97110 THERAPEUTIC            Complete Care Centers - Billing Statement        Case Facility Service CPT CPT Description Billed Total Contractual Writeoff Deductible CoIns Balance ID  Date Code  Charge Payment Adjustment Adjustment     Injury Feb 1,   $85.83 $0.00 $0.00 $0.00 $0.00 $0.00 $85.83 29454   97110 THERAPEUTIC         Care & 2025              EXERCISES         Rehab                $52.95 $0.00 $0.00 $0.00 $0.00 $0.00 $52.95  Winter  97150 GROUP         Haven               THERAPEUTIC            PROCEDURES             $106.41 $0.00 $0.00 $0.00 $0.00 $0.00 $106.41    97530 THERAPEUTIC            ACTIVITIES             $115.56 $0.00 $0.00 $0.00 $0.00 $0.00 $115.56    98941 CHIROPRACTIC            MANIPULATION          Injury Care & Rehab Winter Haven - Total   $2,745.69 $0.00 $0.00 $0.00 $0.00 $0.00 $2,745.69  - Total           29454 - Total     $3,415.74 $0.00 $0.00 $0.00 $0.00 $0.00 $3,415.74 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:01-31-25 - Divardy Polanco- Focus Exam] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 1 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:01-31-25 - Divardy Polanco- Focus Exam] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 2 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:01-31-25 - Divardy Polanco- Focus Exam] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 3 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:01-31-25 - Divardy Polanco- Focus Exam] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 4 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:01-31-25 - Divardy Polanco- Focus Exam] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 5 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:01-31-25 - Divardy Polanco- Focus Exam] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 6 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:01-31-25 - Divardy Polanco- Focus Exam] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 7 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:01-31-25 - Divardy Polanco- Focus Exam] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 8 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:01-31-25 - Divardy Polanco- Focus Exam] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 9 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:01-31-25 - Divardy Polanco- Focus Exam] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 10 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:01-31-25 Divardy Polanco - TC and TG] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 11 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:01-31-25 Divardy Polanco - TC and TG] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 12 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:01-31-25 Divardy Polanco - TC and TG] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 13 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:01-31-25 Divardy Polanco - TC and TG] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 14 of 57  LSO – Brace: LMN  Patient Name: Polanco, Divardy  Date of Service: 01/27/2025   Type of Bracing   Type of Bracing required:    L0642- Lumbar orthosis, sagittal control, with rigid anterior and posterior panels, posteiror extends from L-1 to  below L-5 vertebra, produces intracavitary pressure to reduce load on the intevertebral discs, includes straps, closures,   may include padding, shoulder straps, pendulous abdomen design, prefabricated, off the shelf.   Diagnosis   Onset of Dx: 1/15/2025 MVC   POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890  [Doc Name:1.27.25 Divardy Polanco LMN LSO]   Page  of 2 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890  Page 16 of 57  POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:1.27.25 Divardy Polanco LMN LIDO] Lidocaine Patch: LMN Patient Name: Polanco, Divardy                                                                                                                   Date of Service: 01/27/2025 Diagnosis Onset of Dx: 1/15/2025 MVC Diagnosis Codes: Cervical radicular pain - M54.12 (Primary) Sprain of ligaments of thoracic spine, initial encounter - S23.3XXA Acute post-traumatic headache, not intractable - G44.319 Muscle weakness - M62.81 Other specified dorsopathies, cervical region - M53.82 Muscle spasm - M62.838 Joint stiffness - M25.60 Paresthesia of lower extremity - R20.2 Other fatigue - R53.83 Lumbar radicular pain - M54.16 Indications & Expected Benefits Adjunctive treatment in the management of post-traumatic acute pain. Reduce use of NSAIDS. Significant reduction of pain. Duration of need, Prognosis, Alternative Modalities Used Duration of need: PRN Pain Prognosis: Good Alternative Modalities Used: Stretching and Hot / Cold Therapies . Instructions for Use Frequency of Use: 1-3x per day and PRN Length of Use: 7 days Time of Treatment: 8 hours A 7-day supply of lidocaine patches was issued to the patient. A topical treatment that can be used alone or with other medi cations to treat pain. Lidocaine penetrates directly into the skin to reach the damaged nerves to help provide relief at the sit e of the pain. Patient was prescribed lidocaine patch with lidocaine 4% and menthol 1%. Utilizing accepted medical practice standards, the above-prescribed topical analgesic is essential in the continuous treatme nt of this patient. The lidocaine patches were shown to the patient and the patient was instructed on how to apply them to ar eas of  treatment.  By  signing  below,  all  parties  confirm  that  education  of  the  indications,  contraindications,  risks  and  expecte  d benefits for use of this product has been provided and discussed. Additionally, signing the bottom confirms that all questio ns have been answered to the patient's satisfaction. Provider′s Signature: A COPY OF THIS DOCUMENT SHALL BE RETAINED BY THE PHYSICIAN IN THE PATIENT'S MEDICAL RECORD Page  of 2 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 17 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890  [Doc Name:1.27.25 Divardy Polanco LMN LIDO]   Page  of 2 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890  Page 18 of 57     $905.64 $120.75 1 MLSO (L0642) Lot #CN240607F   Total Amount Due: $1260.44 ($191.70) – Pending Insurance Verification     I certify that I have received all of the equipment and supplies listed above in excellent condition. I have been properly     instructed on how to use and properly take care of the equipment and supplies. I also understand that in the event that     payment of my co-insurance or deductible amount are not made by my insurance carrier(s), I will be responsible for     reimbursing COMPLETE CARE CENTERS, LLC and balance owed up to the allowed amount.     I authorize COMPLETE CARE CENTERS, LLC and employees of COMPLETE CARE CENTERS, LLC to contact me by     telephone regarding the equipment and supplies I have received, additional items or supplies that I may need and to     discuss any billing and / or accounts receivable information.     POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:1.27.25 Divardy Polanco TC and TG] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 20 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:1.27.25 Divardy Polanco TC and TG] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 21 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:1.27.25 Divardy Polanco TC and TG] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 22 of 57  Standard Disclosure and Acknowledgement Form   Personal Injury Protection  - Initial Treatment or Service Provided  The undersigned insured person (or guardian of such person) affirms:    1.        The services or treatment set forth below were actually rendered.  This means that those services have already been  provided.   Exam    2.        I have the right and the duty to confirm that the services have already been provided.   3.        I was not solicited by any person to seek any services from the medical provider of the services described above.   4.        The medical provider has explained the services to me for which payment is being claimed.   5.        If I notify the insurer in writing of a billing error, I may be entitled to a portion of any reduction in the amounts paid   by my motor vehicle insurer. If entitled, my share would be at least 20% of the amount of the reduction, up to $500.  Insured Person (patient receiving treatment or services) or Guardian of Insured Person:   Divardy Polanco  1/20/25 Name (PRINT or TYPE) Signature Date  The undersigned licensed medical professional or medical director, if applicable, affirms the statement numbered 1 above  and also:    A.      I have not solicited or caused the insured person, who was involved in a motor vehicle accident, to be solicited to  make a claim for Personal Injury Protection benefits.    B.      The treatment or services rendered were explained to the insured person, or his or her guardian, sufficiently for that  person to sign this form with informed consent.    C.      The accompanying statement or bill is properly completed in all material provisions and all relevant information has   been provided therein.  This means that each request for information has been responded to truthfully, accurately, and in  a substantially complete manner.    D.      The coding of procedures on the accompanying statement or bill is proper.  This means that no service has been   upcoded, unbundled, or constitutes an invalid or not medically necessary diagnostic test as defined by Section  627.732(14) and (15), Florida Statutes or Section 627.736(5)(b)6, Florida Statutes.    Licensed Medical Professional Rendering Treatment/Services or Medical Director, if applicable (Signature by his/ her own  hand):   Brian Rice  1/20/25 Name (PRINT or TYPE) Signature Date  Any person who knowingly and with intent to injure, defraud, or deceive any insurer files a statement of Claim or an   application containing any false, incomplete, or misleading information is guilty of a felony of the third degree per Section  817.234(1)(b), Florida Statutes.   AUTHORIZATION LIEN. IRREVOCABLE ASSIGNMENT OF BENEFITS & CONSENT/GUARANTEE OF PAYMENT RELEASE OF INFORMATION: I  authorize  Complete  Care  Centers,  LLC  to  release  any  information  pertinent  to  my  case  to  any insurance company, my legal representative(s), or adjuster to facilitate collection under this authorization and assignment. I hereby release Complete Care Centers, LLC of any consequences thereof. I authorize Complete Care Centers, LLC and its staff to  communicate  with  other  doctors  as  it  pertains  to  my  diagnoses  or  treatment.  I  also  authorize  any  holder  of  medical chiropractic  information  about  me  to  release  the  health  care  financing  administrators  or  insurance  adjustor  agents  any information needed to determine these benefits for related services. IRREVOCABLE ASSIGNMENT OF CAUSE OF ACTION: In the event my insurance company is obligated to make payments to me or reimburse me for Complete Care Centers, LLC’s health care goods or services rendered to me in connection with or related to my injuries or illness, and fails to make such payments or to reimburse me upon demand by me or Complete Care Centers, LLC as the assignee of such benefits hereunder, I hereby assign and transfer to Complete Care Centers, LLC any and all causes of action that exist in my favor against any said insurance company and authorize Complete Care Centers, LLC to prosecute such  claims  or  causes  of  action  as  it  sees  fit  as  the  assignee  of  such  benefits  and  attendant  rights.  I  agree  to  cooperate, provide information as needed, and appear as needed, wherever to assist in the prosecution of such claims for benefits upon request. It is understood that until all reasonable efforts have been made to collect sums due from the insurance company (or companies) providing personal injury protection or medical payments coverage insurance benefits to me for my related health  care  expenses,  Complete  Care  Centers,  LLC  will  temporarily  refrain  from  attempts  to  collect  from  me  those  same amounts covered by such benefits. I understand however that I am directly responsible for the amounts not covered by such benefits, including, for example, required co-payments and any applicable deductibles. DIRECTION  TO  PAY:  I  authorize  and  direct  my  insurance  company  receiving  a  copy  of  this  document  and/or  my  legal representative(s),  to  pay  directly  to  Complete  Care  Centers,  LLC  any  sums  as  may  be  due  and  owing  to  Complete  Care Centers,  LLC  in  connection  with  or  related  to my  injuries  or  illness  for  which  I  receive  health  care  goods  and  services  from Complete Care Centers, LLC, and to withhold such sums from any settlement, judgment or verdict obtained on my behalf as may be necessary to  adequately  protect Complete Care Centers, LLC’s right to payment in connection with  rendering said goods  and  services  to me.  I  hereby  further  give  a  lien  to  Complete  Care  Centers,  LLC  on  and  against  any  proceeds  of  any settlement, judgment, or verdict that may be payable to me in connection with or related to the injuries or illness for which I receive health care goods and services from Complete Care Centers, LLC.. This is to act as an assignment of my rights and benefits to the extent of Complete Care Centers, LLC’s charges for such goods and services provided to me. Further, I hereby instruct my insurance company receiving a copy of this document to request that, in the event the subject health care goods, services and/or benefits are disputed for any reason, the amount of benefits being claimed by Complete Care Centers, LLC are to be held in escrow and not disbursed until the dispute is resolved. Complete Care Centers, LLC is hereby given Special Power of Attorney to endorse/sign my name on any and all claim forms for payment of my charges for the goods and services I receive from Complete Care Centers, LLC. If my  policy prohibits  direct  payment to the  provider, then I hereby also instruct and  direct  you  to  make  checks  payable  to  me  and  Complete  Care  Centers,  LLC  and  mail  the  payment  to  me,  in  care  of Complete Care Centers, LLC, 555 Winderley Pl, Suite 105, Maitland FL 32751. NOTIFICATION OF CHANGES:  I  will  notify  Complete  Care  Centers,  LLC  of  any  changes  in  my  health  status,  home  and  work information, or anything else relating to the information on this authorization. CONSENT FOR TREATMENT AND GUARANTY OF PAYMENT: I hereby consent to the rendering of health care goods and services for me (or my child or ward, as applicable) listed below. I voluntarily consent to examination and x-rays, if medically necessary, to aid in evaluating the subject injuries or illness. I declare that I am not pregnant, nor is pregnancy suspected, or, if I am or suspect  I  am  pregnant  I  will  immediately  inform  the  person  providing  me  this  document  and  I  will  write  the  word “Pregnant” in large letters on the first page of this document. I also voluntarily authorize the physician(s) treating my injuries  or illness to treat my condition as they deem appropriate.  I hereby direct my legal representative(s) that before any monies  are  released  to  me,  they  shall  pay  out  of  any  proceeds  of  settlement,  judgment  or  verdict  obtained  on  my  behalf  the  full  amount of Complete Care Centers, LLC’s unpaid balance for health care goods and services rendered to me in connection  with the subject injuries or illness. Absent a separate agreement setting forth a payment plan with Complete Care Centers,  LLC, I understand that if:  A. There is no insurance company obligated to pay for Complete Care Centers, LLC’s health care goods or services, B. The insurance company involved fails to acknowledge an assignment to the assignee or make other provisions for the  protection of the interest of Complete Care Centers, LLC, C. A liability claim exists in connection with my injuries or illness for which I receive services from Complete Care Centers,  LLC, and my legal representative refuses to agree to protect the interest of Complete Care Centers, LLC in any resulting  settlement, judgment or verdict, or D. A liability claim exists in connection with my injuries or illness for which I received services from Complete Care Centers,  LLC, and a settlement, judgment or verdict is entered on such claim,  D. A liability claim exists in connection with my injuries or illness for which I received services from Complete Care Centers,   LLC, and a settlement, judgment or verdict is entered on such claim,  Then payment for the health care goods and services rendered by Complete Care Centers, LLC to me will be immediate due   and owing in full. Should I fail to satisfy any balance due to Complete Care in accordance with the forgoing, it may be subject   to 1.5% per month (18% per year) finance charge. If the default is referred to a collection agency and/or for legal action, I agree   to pay for reasonable costs of collection, including reasonable attorney fees and costs.    I waive all statutes of limitation defenses on any claim or cause of action that Complete Care Centers, LLC may have  or  hereafter  acquire  against  me  regarding  payment  for  the  health  care  goods  and  services  provided  to  me,  including  the   charges, whether any such claim be in law or equity.    I  understand  and  agree  that  Complete  Care  Centers,  LLC  is  relying  on  the  forgoing  promises,  agreements,  and  representations in agreeing to render health care goods and services to me, and I agree that such reliance by Complete Care   Centers, LLC is reasonable. Further, I agree that all the rights given to Complete Care Centers, LLC herein, are and shall constitute   a grant coupled  with an interest, and therefore, among other things, shall be irrevocable  by me, the undersigned  patient (or   parent/guardian), and no obligation of mine Complete Care Centers, LLC is or can become delegable to any other person.  M y signature below verifies I have read and understand the above condition of acceptance as a patient (and or  parent/guardian of the subject patient) at Complete Care Centers, LLC and I agree to these conditions.   POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 26 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 27 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 28 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 29 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 30 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 31 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 32 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 33 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 34 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-InitialExam ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 35 of 57  Account Number: 255890  505 S Andrea Cir, Haines City, FL 33844  Insurance: Athens Insurance Services Order Name: X ray : Shoulder 2 views Ordering Provider: Weiland, Stephanie Order Date: 01/31/2025  Performed Date: 01/31/2025  Left Shoulder Plain Film Series  Date of Study: 01/31/2025  Date of Read: 01/31/2025  Exam(s) Performed  AP Internal Rotation, AP External Rotation, Oblique Y View  Indication(s) for Study  Pain Post Motor Vehicle Collision  Findings  As visualized acute fracture and gross osteopathology is absent.  Indication(s) for Study  Pain Post Motor Vehicle Collision  Findings   As visualized acute fracture and gross osteopathology is absent.  The acromioclavicular joint is intact and within normal limits.  The glenohumeral joint is intact and within normal limits.  Joint effusion is absent.  The surrounding soft tissue is within normal limits.  Consider MRI for further assessment Impression  1. Consider MRI for further assessment. 2. Unremarkable study.  Account Number: 255890  505 S Andrea Cir, Haines City, FL 33844  Insurance: Patient Legal Lien Order Name: X-ray | Lumbosacral 2 to 3 views Ordering Provider: Rice, Brian Order Date: 01/20/2025  Performed Date: 01/20/2025  Lumbar Spine Plain Film Series  Date of Study: 01/20/2025  Date of Read: 01/20/2025  Exam(s) Performed  AP, Lateral  Indication(s) for Study  Pain Post Motor Vehicle Collision  Findings  As visualized, acute fracture and gross osteopathology is absent.  Indication(s) for Study  Pain Post Motor Vehicle Collision  Findings   As visualized, acute fracture and gross osteopathology is absent.  The normal lumbar lordosis is decreased  On the AP view, the vertebral column alignment is deviated left .  IVD height is decreased  at: L5/S1 .  Spondylosis is absent  Spondylolisthesis is absent.  IVF spaces are encroached  on the left at: L5/S1  Articular surfaces are intact and within normal limits. Impression  1. Kyphosis of the lumbar spine. 2. Alignment changes as noted above. 3. Decreased IVD height as described above. 4. Foraminal stenosis present as noted above. POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:Driver's License 2025-02-01] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 38 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:Driver's License 2025-02-01] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 39 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:2025-01-31 Divardy Polanco-DoctorsNote] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 40 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:2025-01-31-Divardy Polanco- DoctorNote] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 41 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:2025-01-27 Divardy Polanco-DoctorsNote] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 42 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-23 DivardyPolanco-PIPClaimInfo] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 43 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-23 DivardyPolanco-PIPClaimInfo] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 44 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-23 DivardyPolanco-PIPClaimInfo] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 45 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 46 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 47 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 48 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 49 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 50 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 51 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 52 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 53 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 54 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-NPIntake ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 55 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-DrNote ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 56 of 57 POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 [Doc Name:DOS 25-1-20 DivardyPolanco-MRIScreening ] POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890 Page 57 of 57—
+
+& Complete Care
+
+Complete Care Centers, LLC
+Medical Records and Billing
+
+Complate-Care.com + 844.680.6ARE |)
+
+Complete Care Centers - Billing Stateme
+
+Patent Patent AcctNo
+
+Adjustment
+
+29454 isy —on28, 99442 PHONEE/M BY ‘soon s000«$0m0—«$000 $000. sara
+geek as pas 1120
+Injury Care & Rehab Lake Mary-Total $267.84 $000 $000 $000 $000 $000 §26784
+iy Fe3. 97012. MECHANICAL —s4145, Soon «s000«=«$0m «$000 $00 Ser4s,
+ert | am TRACTION
+(hers THEA
+97110 THERAPEUTIC. $9583 s000——«somm—=—«so00—=—«So00. Som S853
+exERCSES|
+sn30 GRour $5255 $000, -—=«souo=SCsn]=~=«000 00 ——g2as
+‘THERAPEUTIC.
+PROCEDURES
+97530 THERAPEUTIC. $1054) 5000,-—=«S0mD~—=Ssn00==«00, somone
+‘ACTIVITIES
+99941. CHIROPRACTIC. $1556 $000, som_—=—=—«s800,=—=—«$000, Som, 11556
+MANIPULATION
+Injury Care Rehab Lakeland-Total $402.21 $000 $0.00 $000 $000 $00 $40221
+ivy an20. 72100 X-RAYEXAM OF s11502, S000 —-s000-=—=—«$Om_—«$000 Som. srSm2
+gens LOWER SPINE
+eter 99203 offcevsk, $3749 S000 «s0mm_—=—=«s800 «S000. Som, 248
+tien New Fe. Level3
+io, 98941 CHIROPRACTIC. 511558 5000, «Som—=—=«Sn)——$000, $000, s11856
+2s MANIPULATION
+13490 otal $5475 sooo sno —«soo0 «S000. Som sasa75
+lo642 LUMBORTHOS sp05st som ——s000-=—=«S0m «$000. $00 —_—S0568
+SAG CTRL
+ANT POST PAL
+Jwo3). 73030 XRAYEXAM OF $1007" $000, «Sou —=~=«snD=—«000, 000.0071,
+mas SHOULDER
+‘eo CHIROPRACTIC. 1556 S000 —«som.—=~=«s00=—=«S000.—SomD_—=11556
+MANIPULATION
+90213 OffceVst est $2501 $000, —«S0mD =n) =00 some
+Peevel3
+283 ESTM NOT $2447 Soon 000 «$0u0—=—«$000 Som saa
+WND CARE
+PART TX PLAN
+el. 97012 MECHANICAL $4145, Som s000==«Som——«$000. Som Ser48
+mas TRACTION
+THERAPY
+
+Complete Care Centers - Billing Statemer
+
+s3ans74
+
+s34n574
+
+coe FET CT CPT Description
+f Date
+28456 iy Feb. OTI10. THERAPEUTIC
+ext | ams exERCSES|
+wheter sso ‘cRour
+ves ‘THERAPEUTIC.
+PROCEDURES
+97530 THERAPEUTIC.
+‘ACTIVITIES
+99961 CHIROPRACTIC.
+MANIPULATION
+Injury Care & Rehab Winter Haven Total $2745.69
+“Total
+23454-Total
+“Total
+“Total
+OverallToal
+
+‘50.00
+
+‘50.00
+
+‘50.00
+
+‘000
+
+100
+
+$0.00
+
+$0.00
+
+$0.00
+
+Sf
+
+—
+
+‘00
+
+‘00
+
+‘000
+
+100
+
+$0.00
+
+$0.00
+
+$0.00
+
+$0.00
+
+soo $8589
+som $5298
+$0.00 $2745.69
+$000 $3415.74
+$000 $3415.74
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exar)
+
+Patient Name | Nombre del cient
+
+Diary Parco
+
+Date | Fecha: 1/20/2025,
+
+ow have your Inuries affected each ofthe activites below?
+ecémo hon ofectado sus stones a coda una de ls siuletes actinides?
+
+Please rate all activites that you have performed.
+Calpe todos ts ectdodes que ha reoleade desde su
+
+laine Accones
+
+nu xa el 0a 1, fe de ten 6 606
+
+ate Fecna: fom 1feens: —foote [ree
+
+ne ean sea -—]
+
+[rating oor
+
+Fig] Torco
+
+=
+
+ting evonorabron
+
+lig Overhead von aber por enaia ee aba
+
+[ating comin
+
+tending ang Periods menses i nts go peo
+
+a
+é
+
+[Working ts Computer Tibor eno computa
+
+|amiy ime | iempo en Font
+
+Or
+
+[yng with Cntr] Sparano
+
+[ting crn ino Car Si non ats
+
+Faw BOTT
+Bol 3 ceo dein
+
+[easing oe Rowe Linger dco
+
+[vesuming| Supra eso
+
+[Washing shes aris par
+
+[coking coior
+
+{sing n8Out ar Coto deta yrs eae
+
+fearing Grocers Crgor congrasy Si: ReBy
+
+spots & Recreation | Acido Recrestivor
+
+FT Raw BT pl WE pT
+
+Pape roto
+
+{wenn at a pn Br oan
+
+cotinglger fot
+
+Wahine the Doel Pescara Poe
+
+Soyo pens hig ea SET REST
+
+sere etn cranes fot gereserc i ebsies
+
+Gis 7
+
+D ve 76 veo yn
+
+f
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+
+Page 1 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exar)
+
+Follow-Up Ev_ation # | History of Presu_illiness (HPI)
+con ayayiees Dot: iiss
+[Ser compton Les Ht complaint
+—y Ker Dow's Post —muc Pont
+frovetne BU__GoM
+
+Nik
+=" ter P | Nisconf TE
+Dov +5 bewA
+ons) row 4 Fo Iwors D sso ow: a0 [worst 10.
+Lesa Gite Diane Oviome Ont Oho Ginter fens Gwenn Oneida
+ssn
+wey) fw. ost po i [nosso
+[Hence
+Jpomine =
+Jessie
+Jews
+Jeti
+hewn from 0 Juco jo ow Ives pe
+Tae eT
+‘ne boar ta
+one-run P= Pp Thrpy tesa | mys pon Spon
+Parent Osean ston Uthat Perm ROX eden ssp Menon nag
+herrings |e aa UP ae ae te sh
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 2 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255690
+
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exar)
+
+Physical Exam
+
+Patient Namer Dard Patna Date T7035
+= Virals
+ee mye Date of bith [Temp ——— [Pub ST [Resp
+a ee
+RETVE ROM DEEP TENDON REFLENES (OTA
+Tenia Da Findings ndon/Nerwe Root ate Tare
+Frexton WHE —Restrcted Pan 7] faicepe ——(e5:€6) OTe br Sear] OTe ae 30
+Extension WNL Restricted Pain 7 | [Triceps —(e7)__JO-1s 2+ 3+ ar | 01 26 3+ fw
+[Rotation WNL Restricted Pain] —| Jarachiorad (€5/68) |o-1e—20 3+ ar | 0-40 26 30/40
+Rotation WNL Restrcted —Painf —] [Patel —(afla) [ois 23+ as [0-4 30 gf ae
+Ke Fiexion WNL —Resticted—Paip—] [Pehiles (1/52) Joie 2 30_4r_[ 0 tv 20 fr a
+Flexion WNL Restricted Tadicaton
+Findings Abnormal Reflex (R29.2)
+exon WHE Restricted Pain SENSATION
+Extension WNL Restricted [Pain Darmatomer te 1 ca
+ie Rotavon WNC Resticted 7 Pain S wae wt
+Rotation WNL Resticted] Pain & wwe | wit
+Tumba Findings, o wae yin
+exon WH Restricted Pain @ wre tft
+Extension WNL Restrcyed Pain 7 wnt | Twn th
+i Fexion WN Restrided Pain 7 WNL wat
+int Flexion WNL Restrieted Pain 2 wut) wut?
+Tiagnens 5 Wnt td wa
+[5 Cervical S/S een cee (M54.2), i wnt 4 Jj wn
+Joc suness (w25.6) toss of Fox _ (62.89) 1S WN [wat
+[0 Thoracic S/S (S23.3XXA) LI Thoraci¢ Pain (M54.6) BI wut wut
+Jor-suitiness (425.6) Coss flex (62.89) indicat
+JOU sprain —(533.5xXA}O Lumbsigin — (58.50) Hypo (820.1) 0 Hyper (820.3) 0 ara (20.2)
+Jou-stitness (a5.6) Coss Flex _(M62.89) CONCUSSION SEREENING:
+ema a
+THOSCLE TESTING Orientedx3 Person Time /- Place Other:
+Wovement Left] TE pup constriction:
+[frouider aba (cS) ss WNL_O U/L Abnormal (Ut fe) © B/L Abnormal
+Pwrstext (C6) —oe convergence:
+frist Fe en) S15 WNL Abnormal Conmverfence © B/ Abnor
+ger Fx Tea) Sis Lo bizey Cain CG Nausee/ 1 Other:
+nese Abd (TY aI [Romberg Testi WNL! Abnormal Blanc
+nce ext (3) S1Js [sharp Romberg’: WLC Abnormal Balance:
+Pinkie Dore (Ua) RIT JoFelito Rt CFellto Ly C Eyes Open Eyes Closed
+forest Tos G05) S15 pedal Tests
+Pe Pant (Si) SIs eatin WNL | Leh | Right | 8/L
+[indication: | Weakness of Muscle (M6281) Hoffman's WNL | Left | Right | B/L
+etonus WNL _{ Left | Right | 6/1
+indication: Abnormal Reflex (R29.2)
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 3 of 57
+
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exar)
+
+Physical Exam,
+[comoresion acy J] wo |e At a” [ORedclopetnimsaan) CcewiaiMSe.2) Ccerinl NRISIAA
+feaxcompresion || wnt | Uf RT 0A _|CResiopathytwse.a) Ckervcign(be3) Ccericl WRISIRR)
+locmacuow Tan | our a an” [Stodiopstnyasatay Ccaraipntnea) Cleese ste) Cc
+OA [recta 2) cervical S/s538.0008)
+lonwocmenw We | ur ar on [ORedisoputiy@se2) Ocericl (sis e¥A) CFoceq S382) Cipsem Cowen!
+Jvrsta2) Cinjry of rachis Prs(s38. 3008)
+Konan wae | ur wr on [OCemeS/SS13 000) Dhorace 51823-9008) OcarvcigatwSN)
+2% [cerca Root jr(514.2) rach lense Ox (6580)
+[ana wae _| oF AT oh [Ocerwengtsa2) Cow sock Poiniasaso)
+[scores ese wat_[_o_#t 6h [Grom vacate compromize of Verbal Artery OOtainess Other
+= wat [FAT ei [Oconcave= terconl Neuits (658) | Cconvex= There S/5 (S23 0A)
+[asco ton wne [ua en [Oteonce omer smarome (6543)
+Fnmareconon | | wm | ar ar en [SPomblevercbriractae Doe /S(513.000) Chores G2RKHA)
+Jambar s/s (583 5HxA)
+[zeraicommeston] [ wae | 7 at et [Oronticntrracure CihibPam (norm)
+frmo's we [ot Rt 0A _[Otumbar acer 53.06) GhumbarS/S(S33.98A) Cfscrolisoaasa)
+i We | ur en [Dtosetopstnrousain Glorqasa.so) Cotas rea)
+8A anus Tirtnessegt2 89)
+fascrerews wae [or aT ot [tmnbarwmusse.23) Gtumbowecr! Newrti(sa7) Cee(se so) CcitictMsA3)
+Jecearas wat [_o_ at ot _[Duerasasoy Oscanicaiasa) Dumber Wis 21) sacra RISA)
+Jseices Fane wae [_o_ at eft _[Dters4s0) Crain nripiwas.ss9) Dsscomiestwaeay
+recuse wae_[_ oat et _[Duer(msasoy CuombosacraiNentsMsai7) Ghtace Tyhneiteg 2a)
+lave wae [Gate [Pann ripas 550) Csr wnissaa) ClMuscieTighness.agMe2 a9)
+= wae [oat wh _[Bss7ss356) Osvromnntwan) Cuorpasa.so)
+feseasiome wa | _ a en [Bueramsasoy
+[Bisynmeny OFiation Citdema Citender Cspaam Cireger Pee
+Nervi wru_| ue ne_e/_M/t | 1999.81 other biomechanical lesions Cervical region
+TDsymmetry CiFiation CledemaClvender Cispasm CIVigger Ps
+lmoracie wu _| ur ee e/t_Mvt 1999.82 Other biomechanical lesions Thoracic region
+Trsymmetry Ulriation Cledema Cltender Cispasm Cltieger Pr
+lumbar wu_| ue e_e_M/t 15 1199.83 Other biomechanical lesions Lumbar region
+[Dasymmetry CiFiation Cledema Civender Cispasm Cigar PS
+scrum wri ur fe e/t_M/t | 1199.88 Other biomechanical lesions Sara region
+i [Bisymmetey UFiation Cledema Ctender Clspaam CTrigger Pe
+ers | Wnt Ic n199.88 other biomechanical lesions Pelvic region
+v Tasymmety Clfiaation Cledema Cltender Cispaan CiVigger Pe
+rien st wnt 1c 1199.85 Other biomechanical lesions Pelvic region
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+
+Page 4 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exar)
+
+Physical Exam
+—— ——— _
+se a cal es
+
+= aes Ses
+eee SSE] Sri Sse]
+
+tion WM 1 RD | Reseed 1 Pain | Restricted | wre | GD | RexGted ‘Restricted.
+[xt Bouton PAU} wnt | Pain. Resticted, Las, Pain 1 cert ih chat tess ‘Restricted
+= Eee ae near Up SERRE Je — era Ro —— ne OTE
+= = 208 = a
+[ior she wnt | RDI abe | wr 3.0m) PF shoulsrpaint5.508) C1 Shokder istabty25 390
+
+WHE AED 1 wie 1 wae pias lars 5
+WH te nih [O Shouse paigas 0 Rotor Cu ISCO]
+NTE SOF WEEE
+
+Tw ips Tas 0 to eae oping
+
+ia Spm 2 ese sO Edema Yonder Popping chang O
+
+sow
+‘os np sn ape sn ren a ern ent hee
+at ae
+ro er ene un ewe
+eenion won ran 1 names | wu tran teed [wm tran | péowed [wm | ran 1 noises
+fms WHC 1 Rabe Tw (60773970 tainaer
+ares Wh at | Reh 1 aA [Mesa EnconytW7746) Raabe Britha.20)
+fa StL, [teatime 9B wes
+bee ‘Bw Ope Vie sO tips 0 ender O rons ang
+he {Gwe Spem 0 Tne CHGens ender 0 opp Geng
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 5 of 57
+
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exar)
+
+Physical Exam
+Waist
+{out wnptet i eager pred tne eg
+‘cera ser
+rom on er wae wn rr
+
+lesion WHT Pam | Revited | WL | Poin | Reticted | WH 1 Pain 1 Rewrite
+eension wnt | ron | Revices | wm | ron 1 nesices | wa | ron | Rese
+Jumacoevion | wnt 1 fain | resices | wnt | rain | Renrtes | wnt | Pain | Rertes
+rasuroesaton | wot 1 pan i resices | wnt | pon | teices | wot | pain | Rented
+[es Twist 5699) —O ws sas Sex) sae aS) Cts oe)
+lee eon tein wonton > gh onan fs
+er ETSI
+fetes [wnt | tet 1 Reh | 6” [Osersing no OF deQvenainuias.4) CO wis ras 0
+Praen WH ta_IReh 1 wert oe serome(es.) wt ran a5 98)
+
+WM Ae fg a [OCs Tne Syaronet@560) Cw Pana5 0
+
+Twn tot 1 ght aft [Oca Tone aromas) wan antl.
+
+fa ;
+fer wat Ojon Geert Edema Tender Poppe laxne ©
+lao TEI WNLET spasm (Tape pts © Edema O Tender © Popping O Ging O.
+rine
+rE Ly ee
+a a
+a aS ses pare ae
+“le MUSCLE TESTING
+— aT
+[aricks/PABER | WNL | Left | Right | @/ [CO yow Back Pain(Ms4.50) Pain in Hip(M25.55X) _CSacrotsINa46.1)
+' ws | IPsos Tenonitis(M76.01)
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+
+Page 6 of 57
+
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exar)
+
+Physical Exam
+=
+a ee ee
+= = Sitar
+= secon Le Le
+Japteys Compression | WN | Left | Right | / [Cat MeniscuM2a.0X) Cited MeniscusfM2R.ax) Ciknee PuIM25.56X)
+tai
+= Plea = oe
+— eas ipa re ee 125 SFxl__CT SaaS — CT oar of Fox BY
+ke E A ewer —
+— Ny en
+ee ee eT
+Feo TW Jer ng on [Once SrafRA) Dae Seah ANNA) ie PaaS 7A
+[rottas ‘Wit /teht_| Riwht_| BA [CPosstile Calcancous Fx{582.00) _ClAchites Stran(S86.0XA)
+=
+nema — LOM Joh ow)
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+
+Page 7 of 57
+
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exar)
+
+Assessment
+Patient Name: DWvardy Polanco Daten —as7205
+‘SHORT TERM GOATS
+Improve functional range of motion By Z>_ % in all affected planes within weeks
+Improve physiologic end range of motion in the affected planes by 20% withinu=~G_ weeks.
+Reduce OSH ain from $ to ‘within ks.
+
+Reduce pain from, to ‘within weeks.
+ID Reduce pain from to ks.
+ID Reduce ain from to ‘within Ks
+1G Decrease headache frequency and intensity by —_—Sewithin weeks.
+Strengthen the following weakened muscles: at
+Stretch & lengthen the following contracted muscles
+IG. Reduce spasms by one grade in all affected areas within weeks.
+Improve endurance.
+IG Eliminate edema in the within weeks.
+ID Resolve inflammatory component of the patient's condition within weeks.
+Reduce pain rom to &when be/soual Core within %_ weeks,
+Reduce pain from to when Pali within =< weeks!
+Reduce pain from =] to_S_ when askin Pish=t within #56 weeks.
+Other:
+TONG TERM GOALS
+
+Improve physiologic range of motion to normal.
+Improve headache frequency and intensity.
+ID eliminate all muscle spasms.
+Improve weakened muscles to normal sre
+Improve endurance.
+Eliminate pain when:
+Eliminate pain when:
+Eliminate pain when:
+
+Firs Functional range of motion to normal
+
+th
+
+‘ACTIONS AT END OF PLAN
+JE The patient will be evaluated for the necessity of farther rehabilitation,
+IG The patient will be evaluated for discharge.
+
+5 other:
+
+NOTES
+No treatment is warranted at this time. The patient was advised to follow-up with our office If their
+|condition were to worsen and/or not improve
+
+Ta No treatment is warranted at this time. The patient was advised to follow-up with our office in_ weeks.
+
+IZ The patient has reached maximum medical improvement. Future supportive care is reccommended at _|
+times per. for
+
+[reve Coenwe @/ ty onkw-. it st adel to ty onda
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+
+Page 8 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exar)
+
+dp Complete Care
+
+1720/2025,
+
+Divardy Polanco. Date:
+
+fyis/2025 mvc P No
+Frequency per week |3x IRe-Eval. Scheduled: 46 weeks
+Phase of Care [pate of Beth: 9/18/1985
+‘Chief Complaints —|NP7UBP, MBP, HAS, B/L Tower leg numbness, SH
+Goals Functional improvement and pain rele?
+
+‘DME Ordered [L1D0
+
+Mr stment Pi Region
+lemprove Spinal Misalignment
+3:4 Regions 96941 _|improve Joint Function Both Cervical Thoracic, tumbar
+
+|
+
+|
+
+[iceatment Purpose:
+
+Etim lee Cervical Thoracic, Shoulder _| 10-15 minutes, PRN
+
+'
+
+‘eneal Extension |Oecrease NP ses, 0 Yeps, 10s holds SUT
+“Traction Rordote Curve Retoration minutes
+
+[occrease NP Pasets TO reps, 105 hos Ta TD
+steratac___[lordotic Curve Restoration minutes
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 9 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:01-31-25 - Divardy Polanco- Focus Exar)
+
+Patient Name: Owvardy Polanco Date 1/20/2025
+“Therapeute Proceduret T= Therapeutic Eels TAL Therapeutic ACY GT = Tea
+a ls loner loa
+Jrorave ne Rone
+rhe ac
+J |rccetnecees _|snaynsce ster w/viraion [nat nes otmeon nts of 1020 seconde
+
+ETERS TR CSTE
+Jin Yrecrenres per ran steer recur at ROw 2 es of reps w/ Sec ols
+Treen CTT
+[aco svteeraen pcos
+ter cnrcier nek sey now eres ROM 2 ts of reps w/ Saeco
+lan eh enn TG Coa
+x Jeecnes fat agate ses 2 ns of repr Sane le
+[srersrer nner
+Je Isnouser tere noterNpnabet orev ne Om psc
+[ener Tan Cana
+
+ive ay
+sone hen TER CORSET
+fe esreses fers rose Ire 2s of 0 reps w/ Sec ae
+[Srehrangtion Tan CORES
+fester ners a Oynaic Warm Up Iss bet, 12s
+[nerve nee
+frm esreses fear lvengen sin sabisingmusces _|10,ep 12s Sena send
+Sreengen STOR?
+lana fou 1.2 sms ot oven w/ Second
+[ere te
+ion, retention TEN CRIT
+he feet frontod ansnidse ap sven [sles 1.2 sts of 0 repsw/ Sec eds
+his oc lvereien spin stanton 1.2 sett 10 reps w/ second
+[alesis ue bide loves 12s see
+Name: Brian Rice, DC signature: oc
+
+Yate by Sterene ubitany oc PMLA
+
+9 Ipifooas
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+
+Page 10 of 57
+
+
+POLANCO, Diverdy DOB: Sep 18, 1965 (39 yo M) Acc No. 255890
+[Doc Name:01-31-25 Divardy Polanco - TC and TG)
+
+af as) Complete Care tors Ordered time ins 1: 2
+
+INOURY CARE & RENAG Treatment Plan Timeout: 194.2,
+Dos: 9/18/1985 Coma Detes o}. 31-2025
+YOUR MAXIMUM MEDICALIMPROVEMENT PROGRAM
+
+Complain TNP/UBP, MBP, H's, B/L lower leg numbness
+Goals: Funetional improvement and pain rele!
+DM Ordered: uo
+
+(cum sesco/ex/a/a3
+25/5115. 5/548 25/832 nstument Oxi pice
+Both (Cervieal, Thorac, Lumbar
+
+Cervical Extension Traction 2sets, 10 eps, 10s holds; ast 1-2 minutes 1S
+Theratrae 2ets, 10 reps, 10s holds ast 1-2 minutes
+
+performed:
+
+sy Neck stretch w/ Vibration 13 sets of 1020 second holds
+
+Neck Buterty 1-2 sets of 10reps w/5secholds
+Chit’ Pore 412 sets of 10 reps w/ S-secholds
+‘pen Book 12 ses o 10 reps w/S-second holds
+Rhomboid and Wide Trap 12 sets of 10 reps w/5-sechols
+
+Performed:
+12 sets of 10 eps w/ 5-sec holds
+P-L: Pump Lateral Bend 23 sets 10 reps, 5 sec holds ree
+
+catfcamel 30,ep, 1-2 st, 5 sec holds seated
+Serratus Wall slides 12 ets of 10 reps w/ S-second holds
+Gute Bridge 1040p, 12 set, 5 see
+
+Pertormed!
+
+Demin olds forall eecions
+1-2 sets of 10 reps w/S-sechelds
+
+fpr (0283)
+
+Etim ce ia 10:5 minutes, RN
+
+Fa a =]
+
+= Shear oem |e
+ones ee eI Sn a
+
+XO ROH FPR cus Gah
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 11 of 57
+
+$34.37 Dally Performed
+
+[Srering
+
+
+POLANCO, Diverdy DOB: Sep 18, 1965 (39 yo M) Acc No. 255890
+[Doc Name:01-31-25 Divardy Polanco - TC and TG)
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 12 of 57
+
+
+POLANCO, Diverdy DOB: Sep 18, 1965 (39 yo M) Acc No. 255890
+
+[Doc Name:01-31-25 Divardy Polanco - TC and TG)
+
+Qwtia
+was
+‘n363,
+
+nm)
+Ta
+
+226 (asin ones 2
+
+Ea
+
+sees asia oryoas
+
+ben spear dos or 952
+
+on ‘a0 DANSCOUSTT "0
+
+‘ougog teen sun
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+
+Page 13 of 57
+
+POLANCO, Diverdy DOB: Sep 18, 1965 (39 yo M) Acc No. 255890
+
+[Doc Name:01-31-25 Divardy Polanco - TC and TG)
+
+So
+
+|
+
+posers sae onjonar
+poumecrmerrenor OM)
+Pi emnaunard
+
+sooes5 60 0r ones 2 i
+Sor
+
+|
+
+eons]
+
+|
+
+sees mssnioryonve et
+
+Tey peomr oro emer Er pIeas pon hea}
+
+aT
+
+rsa spousr seor'nese Mt)
+
+Hwy,
+
+usar dn gras NE MD
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+
+Page 14 of 57
+
+POLANCDO, Divardy DOB: Sap 18, 1985 (39 yo M) Acc No. 255890
+{Doe Name:1.27.25 Divardy Polanco LMIN L5O)
+
+nr
+Cc we
+Complete Care
+
+Patient Name: Polanco, Dvardy Date of Service:
+owzrr202s
+
+Type of Bracing
+“Type of Bracing required:
+1L0642- Lumbar orinoss, sagittal contr. with rig anterior and postrior panel, postoiror extends from L-t to
+below 5 veriabra, produces Inracaviary pressure to reduce load onthe inievertebral disc, includes slaps, closures,
+
+‘may include padding, shoulder straps, pendulous abdomen design, prefabricated, ofthe shel.
+
+Diagnosis
+
+‘Onset of Dx: 11572025 MVC
+
+Diagnosis Codes:
+
+Canc! radicular pain - MS4.12 (Primary) Spain of garments of thorace spine inal encounter - 823.3XXA Acute
+pastiraumatic headache, nat intractable - G44 219 Muscle weakness - M6281 Other spectied dorsopathes, cervical region -
+fi. 82 Muncie spaum - iis? 36 dow stness -M2S.60 Parestesiaoflowerexternty- R202 Other fatgua - R289 Lumar
+‘adr pain = M5418
+
+tient facliate healing SP injury to spine or sot esues
+‘Support weak spinal muses and/or delormed spine
+
+‘Sigaiicanty incase mobi without pain
+
+Relaxation of muscle spasm
+
+‘Signitcant reduaton of pain
+
+Duration of need, Prognosis, Alternative Modalities Used
+Duration of need: PRN Pain
+Prognosis: Good Alternative
+‘etching Manual Therapies
+
+Instructions for Use
+Frequency of use: 1+ tmes per day and PRN
+Length of use: * months
+
+‘The Lumbar-sacral Onhosls, helps allovate pain and speed reheitation by providing effective tabilzaion and
+Unloading onthe spine. nas agit conta, with rgd anterior and posterar panels, posterior extends frm
+Sscrococeygea junction fo 1-9 vertebra produces intracavitay pressure to reduce load onthe inervetaral dics
+Includes saps, closures, may include padding. shoulder strap, pandulaus abdomen design ad is rofaricted
+
+4 signing blow, allpartiee conf that education of he indestons, contraindeatons, rks and expected beni or
+use o this unt has been provided and discussed. Additonal, signing the botlom confine fat al questions have been
+‘answered fo ho paints salsfacbon
+
+[ACOPY OF THIS DOCUMENT SHALL BE RETAINED BY THE PHYSICIAN IN THE PATIENT'S MEDICAL RECORD
+
+Provider's Signature Zl De. Per
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 15 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:1.27.25 Divardy Polanco LMN L50)
+
+nr
+Cc we
+Complete Care
+
+Page of 2
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 16 of 57
+
+POLANCDO, Divardy DOB: Sap 18, 1985 (39 yo M) Acc No. 255890
+(Doe Name:1.27.25 Divardy Polanco LMN LIDO}
+
+nr
+Cc we
+Complete Care
+
+Lidocaine Patch: LMN
+
+Patient Name: Polanco, Divardy Date of Service:
+owzri2028
+
+Diagnosis
+
+‘Onset of Dx: 115/202 MVC
+
+Diagnosis Codes:
+
+Cereal radicular pain - MS4.12 (Primary Sprain of gaments of trace spine inal encounter - $23.3XXA Acute
+pastiraumatic headache, at niractaie- Gad 349 Mute weakhoss -Mé® Bt Oiner spectned deropathies, cervical region -
+i.82 Muncie spasm - ils? 36 dow stness -M2S.60 Parestesia oflowerexternty- R202 Other fatgua - Ra 8 Lumar
+‘adeuar pain -M54.16
+
+Indications & Expected Benefits
+‘Adjunctive eatment in the management of post-vaumatie acute pan.
+Reduce use of NSAIDS,
+
+‘Significant redueton of pan.
+
+Duration of need, Prognosis, Alternative Modalities Used
+Duration of need: PRN Pain
+Prognosis: Goos
+
+36 Used: Suetching and Hot / Cold Therapies
+
+Instructions for Use
+Frequency of Use: 13x per day and PRN
+Length of Use: 7 cays
+‘Time of Treatment: & hours
+
+A Tay supply of idocaine patches was issued tothe patent. A topical treatment that can be used alone or wth other medi
+ations Yo tet pan. Lidocaine penetrates drecty info the skin foreach the damaged newves fo hap provide rae! atthe sie
+‘ofthe pain. Paton was preserbed idocaine patch with ldceaine 436 and mental 1%
+
+LUnizng accepted melcal practice standards the above prescribed topical analgesic is essential inthe continuous veatme nt
+ofthis patent The idacaine patahes ware shown fo ho patent and te patient was insfucted an how f0 apply them 1 a eas
+‘of treetment By signing balon, al partie contin that education ofthe ndetione, contindiatons, nk and expecte @
+
+Dena or use of hs product has been provided and discussed. Adaanaly signing the botam conte tat al quest n=
+hnave been answered tthe patents satisfaction
+
+Provider's Signature:
+
+(FE. «.
+
+[ACOPY OF THIS DOCUMENT SHALL BE RETAINED BY THE PHYSICIAN IN THE PATIENT'S MEDICAL RECORD
+Page of 2
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890,
+Page 17 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:1.27.25 Divardy Polanco LMN LIDO}
+
+nr
+Cc we
+Complete Care
+
+Page of 2
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 18 of 57
+
+POLANCDO, Divardy DOB: Sap 18, 1985 (39 yo M) Acc No. 255890
+(Doe Name:1.27.25 Divardy Polanco EP Form]
+
+n
+cP
+Complete Care
+
+Equipment / Supplies Provided
+
+ay. DescriptionHCPCS —Serial.otModel No. AmountICharge _Co-Pay Amount
+Lidocaine Patches $23.65 perunit $70.95 all 15 units
+15 (3490) Lot w2oz0a24a7
+1 MLSO (Lo642) Lot #CN240607F 005.64 12075
+
+Total Amount Due: $1260.44 ($101.70) ~ Pending Insurance Verification
+
+{certify that t have received al ofthe equipment and supplies listed above in ex
+Instructed on how to use and property take care ofthe equipment and sup
+
+lent condition. have been property
+
+Feimbursing COMPLETE CARE CENTERS, LLC and balance owed up tothe
+
+uthorize COMPLETE CARE CENTERS, LLC and employees of COMPLETE CARE CENTERS, LLC to contact me by
+
+telephone regarding the equipment and supplies Ihave received, addtional tems or auppliee that I may need and to
+ny biling and/or accounts receivable information
+
+1127/2025 10:36 AM (EST)
+Patient Name: Polanco, Dvardy
+
+ut signe:
+
+,
+Mad lew Vode
+1/27/2025 9:59 AM (EST)
+sult name:
+
+Madeleine O'Rourke
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 19 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255890
+[Doc Name:1.27.25 Divardy Polanco TC and TG]
+
+SPS NE
+
+ard Pol
+
+vor 0 0 om
+
+2a ep sho]
+
+eae alts
+
+fcr Set 13s 1020 dbl
+
+Tapa
+fest old
+Tadeo
+fiir 2 7
+Sa
+=
+rng NTT
+
+ols
+
+Teese enw om
+pas
+ee
+
+rep Fae ea
+foam
+
+iad ns
+fora
+
+foenidee ten te see
+
+feta a dicts
+Tac inewlse T
+
+ao
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 20 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255890
+{Doc Name:1.27.25 Divardy Polanco TC and TG]
+
+Name:__tardyPtco
+
+Vet
+
+yisnmsWe Wo
+
+ry
+2a
+
+alee
+
+te
+
+Or tls at
+
+es ep oho]
+2s
+
+rayne Sh 135s 0D tls
+
+festa, eam 7
+
+i 755,
+aera
+
+ite
+ara Taxa iepe] Sad
+
+=r
+ea
+ranean NOT RRATSIE
+breton
+rere
+Sip iS
+ico 5155
+| Re
+frase 8r5«
+ene ep suc
+fst anit
+Eases of Ores) 538
+fotos aaa
+
+POLANCO, Divardy DOB:
+
+ile
+
+Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 21 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255890
+[Doc Name:1.27.25 Divardy Polanco TC and TG]
+
+et > Complete Care® tos Ordered Time: 9:20
+
+IMAURY CARE 6 REHAB Treatment Plan Time Out: (104
+Name: Divardy Polanco DOL | uisramsiave er: No
+snsjsss COE ate: |/27/2S
+
+Goats: Funetional improvement and pai relet
+
+OME ordered: wo | LS >
+{crn 98940/83/42/43
+
+25/§115,56/$148.95/$32_Instrument:_ Order:
+"$4 Regions 98941 Both Cervical, Thoraie, Lumbar C.7.Cf0
+
+Dally: Order Performed:
+set, 10 eps, 10s hols; last 1-2 minutes
+2sets, 10 reps, 105 hols; ast 1-2 minutes
+
+Frnerapeutie exercise (37110), 5
+
+so5.03 Daly: order eformed: Time
+‘Sway Neckstetch w/ 1 sets of 1020 second hole
+
+Neck Butterfly 1-2 sets of 10 reps w/5-sec holds 2355 15
+Chiles Pose 12 sete of Orepew/ Sec has
+
+‘pen Book 12 sts of 10 reps w/ Second hole
+
+Rhomboid and Mile Tap 12 ets of Orepaw/ Sec hale 5x59 3219
+Frerapeste Avy (97207
+
+es0s.01 Daly order erformed: ine
+Upper Trap stretch 12 sets of 10 reps w/ 58 hlds
+
+Pas Pump Lateral Bend 2350 of 10rep,Ssectalds red
+
+civ/comel 30rep, 12set,Ssecholde seated SxS5 B27
+Sorat Wal Sides 12 sts of 10 reps w/ Ss8cond holds Biss 4
+hie ridge 10 rep, 1.240 see
+
+for o73s0)_ $52.95 Days Order Pesforned: Tene
+Oreipa Float “Emin bods oral rections
+
+Wataogee 12 sets of 10 eps w/ Se lds
+
+Fr (cozss)= 3.07 Daly Reson Oier stormed: Tine
+
+Etim & tee Cervical, Thoracic 10-15 minutes, PRN
+
+cS iar Oneo | srasiae
+Sconce ea TE
+1 HBO
+A CHOOT E
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 22 of 57
+
+POLANCO, Diverdy DOG: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Dec Name:D0S 25-1-20 DivardyPolanco-IOT]
+
+OFFICE OF INSURANCE REGULATION
+Bureau of Property & Casualty Forms and Rates
+
+Standard Disclosure and Acknowledgement Form,
+Personal Injury Protection - Initial Treatment or Service Provided
+
+“The undersigned insured person (or guardian of such person) affirms:
+
+1 The services or treatment set forth below were actual
+provided.
+Exam
+
+rendered. This means that those services have already been
+
+2 have the sight andthe duty to confirm thatthe services have already been provide.
+3. Twas not solicited by any person to seek any services from the medical provider ofthe services described above
+4. The medical provider hs explained the services to me for which payment is being claimed,
+
+5. _1€1 notify the insurer in writing ofa billing enor, may be entitled toa potion of any reduction inthe amounts paid
+bby my moto vehile insurer. Ir entitled, my share would he at lest 20% ofthe amount ofthe reduction, upto $500.
+
+uted Person:
+
+Insured Person (patont receiving weatment o services) og Guardian of
+
+Divardy Potanco 1/20/25
+
+Name (RIN or BPE) nature Date
+
+“The undersigned licensed medical professional or medical director, i applicable, affirms the statement numbered 1 above
+and also:
+
+‘A. Thave not solielted or caused the insured person, who Was involved ina motor vehicle accident, tobe solicited 10
+‘make a claim for Prsoaal Injury Protection benefits.
+
+B._ Thetreatment or services rendered were explained to the insured person, or his of her guardian, suffclently for that
+person to sign this form with informed consent
+
+CC. Tae accompanying statement or bills properly completed in all material provisions and all relevant information has
+ben provided therein. ‘This means that each equest for information has been responded to truthfully, accurately, and in
+2 substantially complete manner
+
+D. The coding of procedures on the accompanying statement or Bilis proper. This means tha no service has been
+‘upeoded, unbundled. or constitutes an iavalid or not medically necessary dlagnostie test as defined by Section
+627.732(14) and (15) Florida Statutes or Section 627.736(5Nb\Flovida Statues
+
+Licensed Medical Proessioal Rendering TreatmentServices or 3 orf applicable (Signature by his/her own
+and}: .
+
+Brian Rice VA 1120/25
+
+NAME (PRIVT or TPB) Singh Date
+
+‘Any person who knowingly and with inlet to ijure,defaud, or deceive any insurer Tiles statement of Claim oF an
+application containing any false, incomplete, or misleading informatio i guilty of a felony ofthe thied degree per Section
+§817.234(1), Florida States.
+
+[Note:The original of this form must e Tarnished w the insuser pursuant to Seclion 627-7364), Florida States and ay
+{not be electronically furnished. Failure to furnish this form may result in non-payment ofthe clin.
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 23 of 57
+
+
+POLANCO, Diverdy DOG: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Dec Name:D0S 25-1-20 DivardyPolanco-IOT]
+
+> Complete Care
+
+[AUTHORIZATION LIEN IRREVOCABLE ASSIGNMENT OF BENEFITS & CONSENT/OUARANTEE OF PAYMENT
+
+RELEASE OF WFORMATION:|cuthoise Completa Care Centar, ALC to relso88 any inoration pane omy ea¥8 0 ony
+Insurance company, my nga representatives), or acute ofsotecolscton under hs autoraorion and assignment
+hereby role Completa Core Contrn LIC ot any consequences threo lauthrra Completa CareCentets LIC ands stall
+cvopracte infomation about me to release the heath cate toancing adminstotors or nsurance aqusor agents ony
+
+mnEVOCARLE ASSIONMENT OF CAUSE OF ACTION the event my nsUFANE® company Iodine to Moke payments ome
+crteimburse metor Compete Care Centers LCs Meath core goods a senicosrendoredtomeinconnectin wine eat
+‘omy njtororiiness anata tomate such payment orto remburseme upon demand by me t Camplate Care Cantons
+Lucastne ossignes or such bonetts hereunder nereby assign and tanster to CompeteCareConter UC ary ondalcautee
+‘ot ection tat out ny favor against any saa surance compony ond euthoree Complete Cave Centre LIC 0 prorecute
+such clams of causes of eaten a I S608 a the assigneo of such Banas and atendont rs 9Fe9 to cooperata
+‘rove information as need and appwar ax needed wherever to aati inthe prosecution of uch clams ter benef upon
+{rcompanis) providing personalinury protection or meceal poyments coverage insurance benett ome for my related
+oor core expanses, Compete Cove Conor LIC wl temporary retain Hom attampte to colt Hom me the same
+‘Srounts covered by such bene understand however that iam ect ran fer the amounts not coveret by uch
+enol, eluding or example rquredo-payments ond any appcable deduces
+
+RECTION TO FAYE cuthorze and etext my Insurence company recehing @ copy ofthis document cnr my legal
+representatives, to poy arect to Compete Care Centers, WC any sums at ay be dve and owing to Complete Care
+‘Center LC connection with related omy uti ose or which | raceve Nach core goods and serons Horn
+‘Complete Coo Contre. anlto withhold such sums fom any stbement judgment or vera obtained on my baha a=
+‘may be necesrory fo edaquatey protect Complete Gare Centers LC ight fe payment in canection with rendting sd
+(onde and sonicas to me hereby futher give lente Complete Care Cantars Lc on and against ony proceeds a ony
+seiomen judgment vor tat maybe payable to me in connection wh of eated to the injsis of ines for whieh
+‘receive nea care goods and srs tam Complete Gore Centar LC Tie to acta cn atsignment of my ight and
+Donel tothe eent of Compote Care Centors Les charges or sch goods andl services proves to ma. Further Mere
+instruct my neurance company rectving copy ofthis dacument torque tat nthe event the subject heath cae gon
+services and/or banetts are doputd er any reason, tho amount of benats being ckaimed by Compsate Core Conor LC
+{2010 be nea im oscrow ond nt ssbursed unt the spt eFlved Compete Cave Cantera LLC herby given Specie
+Power of attorney to endorse sgn ny name on any and clown toma tor paymant omy charges torthe gos nd servi
+
+Iecaive tom Compete Care Centers LCI my patcyprehit rect payment to the powder, hen ere ale inetuct
+ca erect you to make checks payable to me and Complate Care Centers LC ond mat he payment tome, in care a
+
+NOTFICATION OF CHANGES: wl notly Complete Core Centers LC of any changes my heath status, home and wot
+Invormation or anyning ese eating to te normation on tis authorzeton
+
+‘CONSENT FoR TREATMINT AND GUARANTY OF PAYMENT hor consontto ho rendering of heath core goods ana seews
+forme (omy chiderward aeappicable)kxtedbaiow voluntary concerto examination and-raye¢medicaly necessary,
+tadin evatating the subject rhs or ina= Ldesare that Lamnet pregnant tia pregnancy suspected ofa ot
+suspect am pregnant wil immediately inform the person proving me this decument sn wl write the werd
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 24 of 57
+
+POLANCO, Diverdy DOG: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Dec Name:D0S 25-1-20 DivardyPolanco-IOT]
+
+> Complete Care
+
+Pregnant“ inlargeletterzan the frstpage ofthis document | ottriy enor the pijsclon() eating my ner
+
+crinezs to tect my conston as they deem appropiate. leroby erect my loge reprerentte(s) that beore any manler
+
+(2e rleared tora, they shal pay aut of ey proceeds of setters, agment or var abtaned an my behalf ut
+
+‘rountof Complete Cove Cantos C's unpaid bolanos for heh care goods and wercos rendered to mein connection
+
+tien the subject rye or lnoes, Absent oreparata agreement eating otha payment plon with Complete Care Cantos
+
+|A._Terois no insurance company obligated 2 poy or Complete Core Centre LLC's heath ore goods or servis
+
+18. Teinrurance company involved tal te ccthowledge on azsignmantto the azignee ormake other prvions forthe
+protection afte trent of completa Care Centers US,
+
+(C. ‘Aaity csi axes in connection wth my injure or ins fr which eesve sevice rom Complete Care Cente,
+Uc ond mylogo! representative esos to ogo to pote the toast of Compseta Care Canter, LC oy esting
+someon judgmont or vert oF
+
+1 Abit claim xcs in connacton wth my injure or nas fr uhich receled senicas rom Complete Care Centers,
+
+‘hon paymenttor we nedth care good on series rondo by Complete Core Contr LC to me wl bo mmete de
+nd oning fuk shoul fat salty ony bolonce dye to Complate Caren accordance withthe organ, tmoy be subject
+{os pr month (8% per yea ance charge # the defout i eered 0 @colecton agency and/or legal aston, | oe
+‘te payor oasonebie costs of cotton melding reasonable otto fees and cos
+
+cr hereafter acquire gaint me regerding payment fo he hecth care geode and sevices proved fo ma clase the
+Charges whetneany such clam bein aw or egy,
+
+' undetstend ond agiee that Compute Care Contre, LIC 8 relying on te forgomng promises, agreaments and
+‘presentations m ogreoing to vender neath ware goods ar worvias to mo, and age that such aance by Compete Core
+Centers LC trgsonabo Further ogres tat altherghts gen te Compete Care Conta Le herein ore on shaeonsto
+‘gant coupled wh an fterost an thettore, omong other things sha be mavocable by mathe undersigned patont (or
+poront/guattan).ondno gation of mine Complet9 Cae Cantos LC leo an become aslagable to any ater parson
+
+‘My sgnature baton erties have ead and understand the above cancion of cceptence ata patient (and or
+arent/quarianaf the subject patent) ot Complate Core Centers Lc and ogfes to these condone
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 25 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255890
+
+[Dec Name:DOS 25-1-20 DivardyPolanco-Ini
+
+exam }
+
+~ ~
+Patent Name | Nombre del Pointe: Dandy Polanco ate | Facho: 3/20/2025
+ow have your Inries affected each ofthe actives Below?
+cio hon ofectdo sus esionesocoda una de los siguientes actvidades?
+©=1can doit without any problem, 10 ean do ta al
+= Puede hacerlo in 10 = No puedo hocero en
+Pease rate allactvtes hat younovepertormed. | _Bromenin) | _aetxamcn | aetaamind | _netaomen 3
+otfiqu todos es ctnidadtes que ha reaado desde sv |Bate[Fechs, Jone | Fecha. [Bate Fecha; [Oat Fecha
+ee Lingo czab 0a fei sence ra nah
+[ting Har ra
+Fisting] Toco
+
+[ting ronan
+
+[wating] connor
+
+[ending ors
+
+eting nr Out of Gr tryst
+
+=
+
+sting ong Paris] tar eta rant or peas
+
+e
+
+[Wering at Computer Frauen scampi
+
+lami ime | rempo en Fomit
+
+OI Raw BS
+
+kuna exo del Oo 20, dn
+
+50/6
+
+a Bee eT eR
+
+ong with Chern Zagora aor
+
+ting cider evan os
+
+Inoweld Actes | Acide Domes
+
+OFF
+
+RT BOTT
+
+0.10 ed de tn er 00
+
+[veining rarest
+
+[washing Dies Lover os ts
+
+[washing ee] taxa To
+
+[rtsing nun debra rona
+
+srg races Coro onary OOO Fey
+
+Sseons& Recreation | Depots y etidedes Recreate
+
+0 Raw BST
+
+We ORE eh SECA
+
+Leo ue ec del Dl 10, eo denen ee lr 6 rear ado?
+
+(Woming Oto ym] Gers napa
+
+[cating gar
+
+[woting te Dog Por aT
+
+oyu tp ai edn ETERS
+
+ete otgn cmon soto ge rnc ees
+Shona Maron conan rete oh
+
+Gy sw
+
+wes
+
+v9 ym
+
+wesw
+
+/
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+
+Page 26 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-IntialExam }
+
+[ History of Present Miness (HP) =~ 1
+‘Patent Name Ovary Pom ate TOROS
+08: e665 bot: sv52028
+
+[Deane Wivet co Sle was[n
+fait or = name Sacre Gre
+A + \. |prowokin & Specrc/ Com
+
+Ve a wie geet
+
+avi Show? Nyub
+
+Jefasdg toca | “AT L fefaigdioon | Ty) rea COC EH
+
+Si ow 0 Joon 01)
+
+a wer [Corea Poe
+7 WAC VC Jomser sa
+rus a 5S ee
+
+jess ridad | OIC sei AL fsa
+a Ino, yo Eee a poo
+
+a ay com San Te io Or
+
+a =
+
+fousony CUAL fauoty
+
+aot >) Woe da |nointing/ oc
+
+or ge oa a a
+a ———
+
+Waid fee ele tee
+oan eile ba ai =
+
+pao ey 2h pea
+
+[ews eewed nd peta wan pana war Sasa lange A TSB ay a
+fsorisson abn madera ond canton
+
+Sag Raa oa
+‘Sreshoser|VS= Lumber
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 27 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255890
+[Doc Name:D0S 25-1-20 DivardyPolanco-InitialExam ]
+
+~_ PhysicalExam
+Patient Hames —— Bray Ponce Dai TOO
+VITALS
+fs: a Bate ofa [Temp Trae Tes
+fiona eTOCs aries —Iarveayma To
+"ACTIVE ROM. E ‘DEEP TENDON REFLEXES (DTA)
+
+Carel Tae endon] Nerve Root te] Wier
+exon WH Rested 9a) —] icons tesco) Joie Be STO
+Rotation WHL Resting —Potr —] [arachiorad (es/e6]_[O-as ease [ ote de oar
+Rotation Whi estgtga—Pafp —| [Patan waa) Joris de 3s ar [ote fea a
+it Fexon WHL Resting afr] |Rchiles —(sus}—Jo-ts-¥e- seas
+[_—treae Tings Abnormal flex (R292)
+
+Freon WAI Rested Zu SENSATION
+
+cension® get | — wnt restates Demnatarer a
+irnowtion op Wil Rested Pa —] [o> wt dwt
+facRotation © | WNL Rest Pn 6 Pe Ls
+
+Lumbar Findi o wh | wah ot
+Fieion__— R_ pp wnt cae ted Pain wit | wh
+fcension 7° — wnt —nestesed — Pair tt wit Twit
+[it Flexion WNL Restricted Pain WNL? | wut
+
+Viagra a a a
+[agar iRARAAT Conicaga WERT 5 wink Ft
+C-stiffness (M25.6) Clos of Flex _(M62.89) SL WN wh
+[trace s/5t528 x0) Thrace Pains.) treaton
+[e-ssitiness (25.0) Cows of Fen (62.89) ype 20.1) © Hyper 20.3) Cara (R202)
+TUS Sprain (538 A) Lomas CONCUSSION SCREENING
+Fc-stiiness (25.6) loss of Fle (M6289)
+
+TORAETESTING
+
+Tavern Teh TRAE WAL U/L Anormal (41 Rt)_©/ Abnormal
+[roulder Abd) 51 SI [convergence:
+
+[Wrist Ext (ce) SUIS. WNL") Abnormal Convergence  B/L Abnormal
+
+[Wrist Fx 17) 1s [2 Dizzy O Pain ONausea_() Other:
+
+neer ri —teay ys Rombergs Test Z WN CrAbnarmal Balance
+
+ager abd — Tap BIS Erreitont CFelltout tyes Open (Eyes Closed
+
+ip Flexor 12) AA arp Romberg’: [/WHL_ClABnormal alae!
+
+fee et Wp SITs Breton ef tol Ceyes Open U tyes Cosed
+
+[ankie Dorst (ua) AILS Special Tester
+
+forest roe 8 AS) S| tints Wn | Left | Right | B/L
+
+[Ankle Plant (Si) Wis | Vis Hoffmag's WNL | Left | Right | 6/L
+
+neicaton: Weaken oT Marcle (2-34) Jin Wn | teft_| Right | 8”
+indication!“ Abnormal Reflex (29.2)
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 28 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-IntialExam }
+
+Physical Exam
+Jarretion T_T 6 [Ovosclontnysea) Cervesiinta.a) Oceic NRISLAR)
+Jroccnoreson [wn _| er aT 6 [tedentiyseaytevenenpisa2) Gena nmSi4a)
+Ioarcen wen |r mr [tsi rsa.) ceva NS] Bae
+[Brecon Cerna stn)
+loo omen wane |r wr fon) [Otaaonatnsa a) ava seis anna) Braces opm Ocewca
+@ [secre ea rebtesn am
+Sonn Te [wr ww ay ACen 57380) ace 5623.90) Bcericig me)
+S ocerscsinee nyse) Cc ns Def.) .
+Pvatana's GD] or at 0A |[Ccervicaijarsa2) Bow Back Pantsa soy CMS4.G)
+cores Ten [S) Rs ee ee es
+[Scheppetman's WNL Ga ar GD) Convex = Thoracic 5/5 (S23.3XXA)
+frsonsren pO] [wre | tat on [Otroack Ont snd 549)
+vnatercunion | wa |e wr Mbp |arontic venciattocire cervical ania) horace 95 3A)
+ie | luuimbar S/S (533.5KXA) ais
+Fienarconoea T] [wm | Ren [Grote i racine OR Fn OTR
+Kae ond ere
+ower species dosopatis nose (53.87)
+lan Tw on JORslpntypese37) Caras 30) Ochs Pes)
+oe [OroaceTghiessvegltae. 469)
+= wet [oat eA [Otuntornnisae21) Ghumboocarnewamsi7) BLoPWWSA50) Csaopealses)
+oso ee
+Jawan reser | G2 [am en [Ouwrnaso) Gromn apwns339) Osoromniwea) y
+Rochas God [oar eA [Boras 50) Quombosncral owri(Msaa7) Chul Tghinealingney aca) Zeb
+le a ee ee)
+= es Se
+[excasme wre] ome [oor wasn
+a — a == Tam
+[Sree fenton Ctaons Bower Eason OTe Pr
+Icervicat wnt_|ur_re_f/d (nip. ]C 99.81 oterthomechanicalisions Cervical repon
+[Girne tain Odors render Lagan OTe Re
+[thoracic wt_]ur_Re/6)) mvt |camao.22 other tomechanialtesions Thorac rion,
+[Gtormmcty Creation Ctdema Cerder Open Cae Pr
+untae we [une et fpfo woes oter toma ns umber repon
+meaty Orsaton kos Clende- am Cana AT
+[sacrum wt_}ur_re (6A | mgs.04 other tromechanca sions Sacral region
+[Giasymmetry LaFnation Ctdeme Cltender Cpasn OTigee
+lett woe [S145 ote tomestoncaliesons reve regon
+[Gioymmety rian Casi Cenaer Carn GTaae Fr
+lene st wn Gi 5 ore tomeshancalieuon Pe eon
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+
+Page 29 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-IntialExam }
+
+fl Physical Exam
+FO
+= = Se
+ot on con a ne
+fmsen wm fam | wesces [WOR | Fan | aoe | Wn Pan teas |W | Pam I Pee
+fstenion vw ras meses | me | Pan | tenet | wi Pan | gesnces | wm | a mete
+sn vn ran | neces |e | ra | nerd | wt | Pan | pence | wm Pan | Rene
+aten v1 Pain | teas | m1 rom | Reed | vn | Pain | Rett | wi Pan | Reed
+Jeroen | wm 1 ran 1 esices | wm rain | tates | wnt | Pan | Rcd | wm | Pan Rees
+fetownen | wn 1 ran trusted | wn ran | sees [wm | ran | tances | wm | an | hese
+—s TR cS) —O Souer ress) OsitaasOaEg Ca ee
+— Swen
+feosasnt Tvnn sot 1 nah | on [Ooieconsi0g Ostedsn pants sin Ook metas im)
+a PT eT
+Fram We Reh a8 [Osher sons) Cen GSC
+ey TWA enh | wt [Ostoaser 55) CipngenertN7Sa0) CASS aR AT
+feeivenrcar [wae mete en [sow ron) Oss Gan OA
+a
+bere we at Reh 0h [Osos rothassin) wars on) “CRS Tedon OTD
+Se TN
+Potersscor Tom | wn a1 mga | an [Sows passin Ostet tewseras00h) GR GATRCODAD
+furor TW a mg ar [shower pas Ga 8 ea
+ce NT ST
+Feesemsesres | wna et mee 1 en [shows pari in) Cnt cat SRSA
+
+law {wt Spm Yrs Ere CTercer Popping © Cig 7
+[ne {EWC spasm Cpe aes enor 6 Popping Gch Ch
+“eBoW
+tal TORT
+
+mou ue ne un ares
+reson WH | Pom | Reseezea [WH rom | Retied | Whe | fan | Resta | WH 1 Pam | Retina
+lecenion wn {pain | nested | wot | pan | nesticed | wwe 1 fan | mosses | WA | ain | Rested
+rg a cy = o.
+law Felon Seon J
+se ion 5 tenon J
+fr Swenson)
+
+i ST,
+oo wre | ett neh | 0 [Oe Epon 0) Rabu! O20)
+er ‘WH | Let Rabe | on [O Mesa Epconds (M7700) Radome ers70.20
+fae WHI tet abt | aA [Stet eon (730) Oi Wate)
+fem EW pn ip ts ema 6 ener Pope © Chg
+fee EWE spuim gr pi Kaeo Cl Tender Popping © Cig
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+
+Page 30 of 57
+
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-IntialExam }
+
+bes Physical Exam. bat
+wR
+RO is Pasa ROR
+tou = res on Tee
+eon WH | Pain | Rented | WML | Pain | Rested | vi | Pan | eset | WML | Pon | Rete
+lcendon wt 1 Poin | Restes | we | Pin | Rented | Yin | Pan | Rested | WML | Pan | Reet
+jmaroevion | wnt 1 ran | resins | wn 1 Poin | Rented | wi | Pan | Reated | WH | Pan | Reiced
+Jssmevason | wot 1 ran 1 netises | wot | ran | Reweted | won | fan | Revere | wit { Pain | Reited
+— TB wit 569908) was sex) sae gC os oF
+[owen DB Weakness(n62.81) 2
+Jose's Tw tet 1 wen er [Osteroing yoni on dcduevan es.) Wrst Pon (5.538)
+= TWH Je meh or] oral Tort yar) Wrst Pi 25S)
+eves raaers[ we | tt nigh | aA JO pat Tune! Syne 6560 Wr Paras)
+Fa TWH te tp en] cra Tone yar 860) Ws PSS
+fax Wnt sss ger pr dems 0 Tender Popping Gre a
+fe WHC Spm ee seme Tender E Poon © Gtng
+mA
+ro —
+tom on Tene Paarl
+enn WML | Fon | esvces ] WML | Pam | mesic | WT | Pam 1 nestctes | WM | Pom 1 Rested
+lestenson wnt | ron | eaves | wn | rin | nested | wnt | ran 1 mesited | Yn | Pon | Rete
+fscsen | Pain | rested | wnt | pain | essed | wt | ron 1 Reve | WML | Pon | Resets
+facucon we | rae | Rested | wnt | pain | Rested | wML | Pain | Resviced | WML | Pin | Rested
+ex-routon | wa 1 rao | Rested | wnt | Pin | nested | vi | Pon | Resved | WML | Pon | Rete
+foc nowton | wi tran 1 newices | wot 1 ran 1 texted | wo | rain | tesised | wht | pain | Rested
+—s Tie 7699) Gp Pas x) El sesas. 6) Os of ea)
+3 ‘Geneon.
+crsrnsen [wee tr 1 nee | of [0 tow ack Pn 05450) _Donin elM25550) Cerone)
+en ma an eet Drone) Cie eT
+ra WH Tet | RR WA [OSuipeceo rate
+Fema WNL tag _| 6A [Od Rien Deorin ZT
+fan TB WHC spam ger pr dome 0 Tender Popping Ging CF
+fen TB WHC spn Tener pv Edema Tender B Popping Gh OF
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+
+Page 31 of 57
+
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-IntialExam }
+
+~~
+
+Physical Exam
+
+Fa Tae Taras —— Tra
+rc
+ro FETT
+ow wr won un nw
+
+even WH {Pain | Rested | wat | pam 1 nestictes | wnt | Pan | nested | WNL | Pam | Resices
+leension ww. 1 Pain | Reeted | wnt | fain | nestites | wit | rain | nested | WH | fain | Resticted
+
+=
+fs Wem —
+— eee T
+Jeno orawers [WH | ts ions | a [OACLSSISERSINA) CnC Teora3.19)
+Poser wars [wnt ttt wine | wn [OACLSSRRSIXA) CPC TeoM23 20
+fackrons WHI Let_| Rent _| 8 [OAC S/SIHR.SbeA) CCL TorBR I)
+[ronsiesten | wot tet 1 mah | on JOSSUcuSeSA2KA) —Cinee Pon(2S.560)
+[secretes | wie | eet 1 men | [OWS MCUSES.ADKA) Cine Pata5 50
+roche WHI lft | Ree 1 [OPaela Oso Oa.IO) Cine Panta SON
+
+caray WALT eft | Rete | wf [Cat ensest28. 308) ONed Mencan 623.300) Orne PMaS 50H)
+stv Compresion | WNL | hI Right | wh [Olt MenicoyMal.20x) Died MenncsM28.x) knee PotMl5-56X
+
+n
+n
+[aves Daacion | wt | wok | Runt | aA [OSS MCYSERALRA) OSISUCUSRR.42xA) Oke Pain (M2S.56X)
+
+ssa vor TW | toe | waht | aA [Dtat enscth3 30%) Cites Menisc(Ma 318) Okc Pata S6H)
+ORT ESO TSOTSI
+for lw spasm Ch Tier ts Edema Tender Cl Poping Ching ED
+leo {wi spasm Chane ts Edema Tender Popping king OL
+ANKLE
+TERR rR
+now ur mene wr were
+
+fersion wae | ain | Rested | wnt | Pain | Restricted | WML | Poin {Rested | WAL | Pan | Rested
+lovesion Wnt | fain | festices | wie | pain | nesses resvieed | wit | Pain | Restricted
+Pr Tr 0S A) CS PANES STAT :
+ORE TENG
+Sy TERETE] — =e
+[arerororwers [WN | teh | Right | aA [OArerior Toler SpranS5BA5XA) Cre PeinR5 570
+Poser Orawers | WAL | tof | Rene | Wh [Chosen Toil SoraitSOBA9KA) Are Pain25 570)
+omens TWN | Let 1 Right | eA [OCOS/SS52.G0xA) Conse OTUER<ON
+[ntnonatsiess | wnt 1 tft 1 might 1 a [Acti Stain B& HA) Cle Spon(s93 4X8) DACs RopS@6)
+rae re Wnt | tft | might | /[DAher SraiSBh OHA) Caches Sprain(93-49KA) Ane Pit 78)
+lots WNL | tet | Right | w/t [OPomble Ckaneows F459200) Caches Sin(s86.0%8)
+= We tet | might | wh [Ocas/te.0009) Cane Panaas 570
+“RTE SOF TRUE REVERT
+ar Wi spasm Cran ts era Cl Tender Cl Popping © Cctng
+nee EW O spasm Cea pO 1 Popping Cheng
+
+oon lS) Lao
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 32 of 57
+
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255890
+
+[Doc Name:DOS 25-1-20 DivardyPolanco-IntialExam }
+Assessment
+= Name: Divardy Polanco, Dater T/2072035
+‘SHORT TERM GOALS
+
+Emo range oT mation By [8_ Xm al affected planes winin CU week
+
+Improve physi ange sre ted planes by U.S” % within -(2woeks.
+Reduce sain fom to “within "weeks.
+Reduce. pain from —B to. within = weeks.
+
+Reduce ban fom to wathin “wees
+
+IS Reduce — ain from within, — weeks
+Decrease headache frequency and intensity by Sa-W within” GTP weeks
+
+Strengthen the following weakened muscles:
+
+stretch & lengthen the following contracted muscles
+
+Ir Reduce spasms by one grade inal affected areas within “1 weeks
+
+[fa Improve endurance.
+
+IB eliminate edema in the within __ weeks.
+
+IE Resote ntemmatny ampere of te palenscondon win wees
+
+[arrece an tom to Sten Ser eng wn a)
+
+pees penton wee when te ty an week
+Reduce pain from 6 to _S when within 7 week
+5 other:
+
+TONG TERM GOALS.
+
+[iro Tanctional range of motion to normal
+Improve physiologic range of motion to normal
+Improve headache frequency and intensity.
+1S. iminate all muscle spasms
+
+Improve weakened muscles to normal strength.
+Improve endurance
+Eliminate pain when:
+‘Eliminate pain when:
+[a eliminate pain when:
+JO other:
+
+"ACTIONS AT END OF PLAN
+
+[fa The patient wil be evaluated for the necessity of farther rehabilitation
+IG the patient willbe evaluated for discharge.
+ID other:
+
+NOTES
+1 No treatment is warranted at this time. The patient was advised to follow-up with our office f their
+[condition were to worsen and/or not improve.
+
+Jo other
+
+C1 Wo treatment is warranted at this time. The patient was advised to follow-up with our office in __ weeks.
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 33 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-IntialExam }
+
+cS Complete Care
+
+habitation ian of care [DWvardy Polanco. sates
+
+Date of toss: |1/is/2025 mvc
+Frequency per week |3x Ine-fval. Scheduled: aswoeks
+Phase of Care 2[pate of erth: 3/18/1985
+
+Chief Complaints —|NP/UBP_ MBP, HAs, B/L lower leg numbness
+Goats Functional improvement and pain relict
+
+‘DME Ordered [L1DO
+Sot Fieatmentes ls sion
+
+lrmorove Spinal Misaignments
+3:4 Repions 99981 _ [improve Joint Function Both cores, Thoracic, Lumbar
+
+Etim & ee Conia, Thorac 10-15 minutes, PRN
+
+Se Se sees Tosa TT
+“Traction Rordot Curve Restoration ‘minutes
+[Decrease NP sets TO reps, 105 holds tT
+‘theratie __[lordotie curve Restoran ‘minutes
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 34 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255890
+[Doc Name:DOS 25-1-20 DivardyPolanco-IntialExam }
+
+[Seana TR CoRR
+
+Patient Name: Divardy Polanco Date: 1/20/2025
+“Therapeutic Procedures: TE= Therapeutic ExerlseTA* TherapEutle Activity GT = Therap
+[Bees
+feaezory levee oe Hrreotmen ups,
+row ROM
+[recienghon RTARTA]
+t___recetsecies _[snoynecr srenw/ vibration [na panes often ses of 1020 second ole
+
+2 ses of 010s w/ Se eds
+
+[sreanrenasen ig Coma
+
+lacs sumeniehen uowlentace
+
+fre arcenes fo Busey [rerove cove! 1 2 ne of 0 rep w/ Sn ade
+naan TGR COMSAT
+
+ference fvarga Iiesen 2 sss of 0 rap w/ Ste ae
+[ere Fey
+ethene TON COATT
+
+fre enero fers ron Ieee 2 sets of 07s w/e a
+[oro naa
+
+fx esreser fect lrenunen sont sabasing maces _|irep 12s seco send
+
+lsora freien TaN CPST
+
+Name: _ lan Rice, 0¢
+
+Signature:
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+
+Page 35 of 57
+
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255690.
+[Doc Name:Shoulder X-ray Report - LEFT 01-31-2025 04:13:28 PM.pdf]
+
+eA
+ce >
+Complete Care~
+
+Left Shoulder Plain Film Series
+Date of Study: 01/31/2025
+Date of Read: 01/31/2025
+
+Exam(s) Performed
+AP Internal Rotation, AP External Rotation, Oblique Y View
+
+Indication(s) for Study
+Pain Post Motor Vehicle Collision
+
+Findings
+‘As Visualized acute fracture and gross osteopathology is absent
++ The acromioclavicular joint is intact and within normal limits.
+
++ The glenohumeral joint is intact and within normal limits,
+1 Joint effusion is absent
++ The surrounding soft tissue is within normal Limits.
++ Consider MRI for further assessment
+
+Impression
+
+1. Consider MRI for further assessment.
+2. Unremarkable study.
+
+Polanco, Divardy
+
+Patient: Polanco, Divardy DOB: O9/1W/I98S Report: Weiland, Stephanie Date: 01/31/2025
+
+‘Report generated by eCtincalorks EMR/PM Software (wu: eCinicalerks.com)
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 36 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:Lumbar Spine X-ray Report 01-20-2025 03:09:05 PM.paf]
+
+eA
+ce >
+Complete Care~
+
+Lumbar Spine Plain Film Series
+Date of Study: 01/20/2025
+Date of Read: 01/20/2025
+
+Exam(s) Performed
+AP. Lateral
+
+Indication(s) for Study
+Pain Post Motor Vehicle Collision
+
+Findings
+
+‘+ As Visualized, acute fracture and gross osteopathology is absent.
+
+2 The normal lumbar lordosis is decreased
+
+IVD height is decreased at: L5/S1
+Spondylosis is absent
+
+Spondylolisthesis is absent
+
+IVE spaces are encroached on the left at: LS/SL
+Articular surfaces are intact and within normal limits,
+
+Impression
+1. Kyphosis of the lumbar spine.
+2. Alignment changes as noted above.
+3. Decreased IVD height as described above.
+4. Foraminal stenosis present as noted above
+
+On the AP view, the vertebral column alignment is deviated left
+
+Polanco, Divardy
+
+font: Polanco, Divardy DOB: OW/IW/I98S Report: Rice, Brian Date: 01/20/2025
+
+‘Report generated by eCtineaiWorks EMFUPM Software (ww: eCinicalerks.com)
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 37 of 57
+
+POLANCDO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+(Doe Name:Driver's License 2025-02-01)
+
+Florida onverucese 2.
+uoaP452-170-85-338-0
+
+cn ee
+
+sonoma =
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890,
+Page 38 of 57
+
+POLANCDO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+(Doe Name:Driver's License 2025-02-01)
+
+Florida onverucese 2.
+uoaP452-170-85-338-0
+
+cn ee
+
+sonoma =
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890,
+Page 39 of 57
+
+POLANCO, Diverdy DOB: Sep 18, 1965 (39 yo M) Acc No. 255690
+{Doc Name:2025-01-31 Divardy Polanco-DectorsNote]
+
+> Complete Care’
+
+pate:_[- l= 25
+Patient Name: DIVOVALs Polanco
+
+“The above patient was seen in our office today for:
+2<__mwury/accipent _%\ examination >< TREATMENT.
+
+Please note the appropriate action:
+
++ Excuse this patient for their appointment on \~@l= 2 @ iGo
+
+‘+ Excuse this patient from work/school from to.
+‘+ Patient may retuen to work/school on but is limited to light duty
+‘+ Patient may retuen to work/school on with no restrictions
+
+‘+ Excuse the patient from iting over
+
+bs.
+‘+ Allow the patient a break every __minutes/hour for_minutes.
+‘+The following activities need tobe limited:
+s28ending
+© Overhead Activities
+© Twisting
+LL Over exertion
+Be Other,_Lifing piling. gveins
+‘+ Excuse this patient from jury duty forthe following reasons
+© Cervical injury
+© Thoracie/ mid back injury
+© bumbar/ low back injury
+Condition prevents patient from standing and/or sitting for extended periods of time as this would
+‘only exacerbate the condition,
+
+[Any questions or concerns please contact our office.
+
+Phone: 863-271-4600
+Fax: 963-271-4605
+
+provider signatre:_€C V4 ~4_<
+
+Dr. Luis Lopez Rodriguez, D.C
+De. Stephan Weiland, DC.
+De Brian Rice, DC.
+
+Dr. Carlie Brush, D.C.
+
+|||
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 40 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:2025-01-31-Divardy Polanco- DoctorNote)
+
+cM Complete Care
+B wrconarvernvsicacwenicnt &
+
+pate:_[- B\- 25.
+Patient Name: _Divavois Polanco
+
+The above patient was seen in our office today for:
+2¢__muurv/accioent 2 __ examination __>__ TREATMENT.
+
+Please note the appropriate action:
++ Excuse this patient fr their appointment on_\= l= 255 @ 9:46.
+“+ Excuse this patient from work/school from %
+
+“+ Patient may return to work/school on ut smite to light duty.
+
+“+ Patient may return to work/school on ith no restrictions.
+“+ xcuse the patient fom iting over Is,
+‘+ Allow the patient a break every __minutes/hour for _ minutes.
+
++ The following activities need to be limited:
+
+© Bending
+© Overhead Activities
+Twisting
+
+© Over exertion
+© Other
+‘+ Excuse ths patient from jury duty for the following reasons
+© Cervial injury
+© Thoracle/ mid back injury
+© Lumbar/ low back injury
+Condition prevents patient from standing and/or sting for extended periods of time as this would
+‘only exacerbate the condition,
+[Any questions or concerns please contact our office.
+Phone: 863-271-4600
+Fax: 863-271-4605,
+
+provider sqnanve:_ OW 4 XX _e
+
+De. Luis Lopez Rodeiguez, D.C.
+De Stephanie Weiland, D.C.
+
+Dr. Brian Rice, DC.
+
+Dr. Carlie Brash, D.C
+
+||]
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 41 of 57
+
+POLANCO, Diverdy DOB: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:2025-01-27 Divardy Polanco-DectorsNote]
+
+&> Complete Care
+LrsresnauesSaricas weet
+
+oae:_t Jar fas
+patientname:_Divardy Palance
+
+The above patient was seep in our offic today fr:
+
+IURY/ACCIDENT exanamanion ~~ amearaent
+
+Please note the appropriate action:
+
+Excuse this patient from work/school from to.
+Patient may return to work/school on uti imite to ight duty.
+Patient may return to work/school on nth 90 restrictions
+Excuse the patient from iting over tes,
+‘Allow the patient a break every _minutes/houefor_minutes.
+The following actives need tobe liited
+© Bending
+© Overhead Activities
+© Twisting
+© Over exertion
+Othe
+Excuse this patient from jury duty forthe fllowing reasons
+© Cervical injury
+(© Thorace/ mid back iniury
+© Lumbar/low back injury
+Condition prevents patient from standing and/or siting fr extended periods of time as this would
+
+‘only exacerbate the condition.
+‘Any questions or concerns please contact our aie.
+
+BE Prone: 968.709
+
+Fax: 863-271-4605
+
+Provider signature:
+
+Dr. Luis Lopez Rodriguez, DC.
+De Stephanie Weiland, D.C
+dr Bian Rice, DC
+
+De. Carlie Brush, D.C.
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+
+Page 42 of 57
+
+POLANCDO, Divardy DOB: Sap 18, 1985 (39 yo M) Acc No. 255890
+[Doe Name:DOS 25-1-23 DivardyPolanco-PIPCiaiminfo}
+
+2025/01/23 10:26:44 1/3
+
+MORGAN & MORGAN [seamen
+
+FORTHE PEOPLE.COM = ™*
+
+A seo
+
+Name Payton Thompson
+
+Phone (819)228-4040 Fax: (613) 257.0868 ‘Trororrw@ressz3694es
+
+smal payion horpson@orhepepie com
+
+Som 172025 = at 102543 0M 3 pages) (nud cover)
+
+Subject 17107917 - Polanco, Duaray- COMPLCARE:
+
+Comments Please see attached documents, stating to bill our clients PIP insurance and then health
+
+if you have any questions or concerns ploace reach out to,
+J@forthepeople com Thank you"
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 43 of 57
+
+POLANCDO, Divardy DOB: Sap 18, 1985 (39 yo M) Acc No. 255890
+[Doe Name:DOS 25-1-23 DivardyPolanco-PIPCiaiminfo}
+
+2025/01/23 10:26:44 2/3
+
+Payton Thompson
+
+MORGAN & MORGAN
+
+(CONFIDENTIALITY NOTICE. Mae ema menage ning sinter, ay need he pero try whch tema ay
+
+‘Selan Cran srauoritaged awa Ay snare eve tae Soure @ aneonnes WECM yea be nee ease
+(eae conta sone’ yep cna and Sahoy ces he Sgr message Thar yu
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 44 of 57
+
+POLANCO, Diverdy DOG: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:DOS 25-1-23 DivardyPolanco-PIPCiaiminto]
+
+Ianuary 23,2025,
+
+2025/01/23 10:26:44 3/3
+
+BEE
+
+Complete Care Davenport
+44824 Grandview Pakay
+Davenport FL 33857
+
+Re: OurCliet’ vary Polanco
+Don: one 98s
+DateofLoss: 1152025
+Your Asst: PLEASE PROVIDE.
+
+Daa Sir of Madam:
+
+‘Weunderstand that our clint curently has a balance owed with your ofce, We conilly as that you submit
+any remaining balance to ur clic PIP and hel cami provider
+
+Our cio’ PIP canicrs
+
+‘Caries Name:
+
+Athens Insurance Servises
+
+Adres: P.O. Box 4111
+Concord, CA 948241
+
+Phone [800.877.7896
+
+Claim FAQs0025
+
+Named Insure Divanly Polanco
+
+(Our sits Health caries
+
+Caniers Name:
+
+nied Healiicare-APWU Fal Pan
+
+Ades: POBOX 30783
+Salt ake City, UT 84130-0783
+
+Phone 500.222.2998
+
+Policy: ‘500061621 APU
+
+Aer both ofthese insurers have addressed your ill please kt us know i any balance remains.
+
+Sincere
+Becky Senghaas
+Case Manager
+
+pt
+
+201 N Franklin Street 7h Flor, Tampa, FL.39602 | (@19) 229.8805 | ForThePeople com
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+
+Page 45 of 57
+
+POLANCO, Diverdy DOG: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:D0S 25-1-20 DivardyPolanco-NPintake
+
+> Complete Care-
+
+New Patient Intake
+Adiisiin de Nuevos Pacientes
+
+osname: _Divardy Mute nist terme Blan co. ue 120/29
+
+Sener Trae sre oe et
+
+Ducato: 116.128 Senet: _ PO A oe
+
+Frew oohe Phe Ch Fg Oh etc Re
+
+dor Can PagredotroPereagtne rare) Pare mer (Dr) Ore |.
+[en oa meee corte ramen, ot. ,
+Florist sting sie vei? aye Bite yew UNSALE a
+S/o I oye DON foesenive [>
+|| jrarenaenny a sat bel? we ON Did the ar nag dephy? Avex O No iS
+
+wry olin th rng we! he i opt 2 Vex CD No if wr sou hen om with C2 Right C1 th ands
+
+[tase wonlagraiea in neimenevedtimpmte? SNe Sivan tetenr imam: Dare tra An
+
+ase nc cocoa B Yes No — Unsure Maes ortow na? NSA
+
+Crops dor Diy Movado ele gece Cnet Peres (Ye Ore
+
+pecs” Nac sb Uno oon Epa ee
+
+Payee mdehapia Chyes Os teen manihen’s ate | eeshamaaia at
+
+ii ta Ren Sevan iCuiabyena Pecks ‘oer Hanes CY
+
+ey perc ial arr Pees co
+
+ince dye Ge Weiptree
+
+Perfor
+
+muoe srs
+
+yo fii mame yes opeortiii: PCr chametor Ch Oniapie
+Seva nob de aa Sera yu de aon & Urge Ce E]Newegie CJomme
+
+yes wt ements ne CP Fase Te EDM CD aig: ay / CFM
+Siri ;Qrc ramming reas” EQARiwe ts E\Womdewe FOr
+
+ato Sgn: Duswes [b-cce mms fa fas
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 46 of 57
+
+POLANCO, Diverdy DOG: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:D0S 25-1-20 DivardyPolanco-NPintake }
+
+O> Complete Care-
+
+‘SUIPANDEALL RELATED:
+RELACIONADOS CON RESEALONES VCAIDAS
+
+mans Cece, foment
+austin sto:
+
+aoe
+
+epee ttetnmternraite iin Se edtitowend ffm Ci
+
+| NCIDENTAIEALILLUISEORY: Cec inne iou ae carey orave eine any of he allowing conn sine he nat
+INCIDENT: Por for nto te cle ian dela sige condones dad gue om
+
+Pomcnamre Can seating Stang
+
+Ooty Taking 1D vomiting
+
+mold ltewe oetfaafas
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 47 of 57
+
+POLANCO, Diverdy DOG: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:D0S 25-1-20 DivardyPolanco-NPintake }
+
+&> Complete Care~
+
+New Patient Intake
+Admision de Nuevos Paciemes
+
+rea ome: Djva col y sustcioint_T taurine Leland ae: OL 2orcbae
+Mal sim nected tna aes EPEvacdy MD email scorn tho ye_Cell
+
+ome Pe . Carne (63 - 3520918 wok mom .
+
+niece SDE" § ondren corcle iy: nes eteg Sime. ny 32644
+
+ey ome Ceadat lageg vit tle cite yn
+
+Newb Madde tects Para Nino ae Tlgow de Mate de Aon Prarie
+‘rioary Care Pisin Ofice Name nd Location: Bay Ane.
+
+amare Ucn del fina! Me de ene rere
+
+coment alt medial cards sng em the Pinay Cae Msc tineaene. Yes CD
+
+esac aia 8 "atennicoe
+
+‘tase you oon COVID-19 vaste? Vex CF Noe phos pide the it fhe ait:
+
+scuoounnnonue
+
+oxen Batts eevee spor icles BMtd Lehn
+= par
+
+‘Amyoueumenty workingtenting ont? Yer Ne
+
+Unsourced any he: Fig Being gtr Sy Late
+
+‘re oui in our abt pm yor woe dis? Yer No
+
+iyo pase ove dal:
+
+Le:
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 48 of 57
+
+POLANCO, Diverdy DOG: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:D0S 25-1-20 DivardyPolanco-NPintake }
+
+> Complete Care-
+
+EASE MEDICAL UISTORY: Cc insti yo ae yor hane expr ay ofthe iow canon
+Mo para cretion hacer luna lar sgn condone
+
+(no Past Medical History
+Can Dear Dewste: CO armacand Motems Crs bm
+
+ro Ganon Das ‘ProomarIormoner liter Problema depres
+Can Catena Ceca Getic
+
+ma Diese fewer rin airs
+Gawsew Dreterne Dixit bes Ors
+
+DAvstnion Depp Diver Dice Droid Ants
+stati foie ‘rferondater et Mga rts Rew
+
+Orme Bracers Gita tat ean site
+
+fone Freon Pron dri ae ‘Derm Catr
+
+Cmca ‘Coat Bader Doar Osos Dsucdeatengt
+
+Crwiy Cite ames Ostia rename
+Dapentis Gite robin Dsvnmetods OT Mywidabens
+Danie Gites Distt Scie Ol thper thw
+
+oe ‘Hepa ‘Beto tte oor ts
+
+Dist Whcrng Gitemia Doscpersis Gt ge, what pe?
+Giga Dir Dies est Cramer {2 Cound 0 Uncot
+Trane Bol Coleertt Mevapase Conaade  Deconrta
+Ciketing Diodes Cp hal Psa Crain's Dene Donker
+
+Tran ecriecos Pri Ari te Prlrmedad de Poon One
+
+Dent Lamp Citas Ditwen oes Ares Dats
+
+ary of he hoe macnn ae ceo ple poi the wing dot mame) an frm and pci fy ae carey wer
+moa car
+
+Smurf dear coniconsmcaroterores pr for praporcon ef nombre de lr mes rum oformaci de cnt»
+‘icq i en ctr bf dad eee
+
+LEAMIL-AUSTORY: Ihre fy hay fay af he owing condos?
+ISLORLLEAMILLAR: ia antes fares dela deinen eens?
+
+Ne ramty tsar
+Sie ements oie
+
+ica diene — Of caer H vances Dis Donne,
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 49 of 57
+
+POLANCO, Diverdy DOG: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:D0S 25-1-20 DivardyPolanco-NPintake }
+
+&> Complete Care~
+‘MEbICATIOS Pe tis pense any ig at ov td the eit
+A Per esconer opens pea eae tary proscar
+Ce nan we meni
+05 me ot meen or supplements
+
+[Now de medicament o siplementor
+‘Medication Name Reason
+Nombre del Meicumento ‘Racin
+
+medrol prariTaane tress, Sleep.
+
+STORY: Whats your dice oft lowing?
+IMISTORIA SOCIAL: ,Cwd eva comsra hatichemanl deo ite?
+
+Cate ‘scot tao
+To catine ws Go Akt we oo taco
+cae wer —_senagay {coat we: #_Day OF # _ Seca Dot se: Ay Type
+Consume decaf: porionsita Cans delcbel 8 Dion O#_Scial Consume de boo Ts
+
+PIMA hry person owas
+Noma erga comes
+
+D1 sutabngs Croce Ol cakine EL NSADS CO Peiin Chiat Deminamatal Food
+Meme TTormcina  Cattha INES” meting fae Ambre Comite
+
+Doe:
+
+SURGERIES: Pes st nyse nor hospaitons yu ha ad pes is
+|EIRUGLAS. Por fr, mer lr cova hapa qh ede poy ch:
+
+CNohistory ofsurgeie or hospitalizations
+No hay antecedents de rugs a ypatacones
+
+spit Same teaoasargery Same ate
+Nombre del Hesptl Racin Nombre deta Craaia Pate
+2 Born wits 6 toes | Renewed 1984
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 50 of S7
+
+POLANCO, Diverdy DOG: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:D0S 25-1-20 DivardyPolanco-NPintake }
+
+OD Complete Care~
+
+AittiCendice Paloneo feisce__ tte.
+
+ea img my nsinimen: EFYss No
+
+you Medieare cighe? C1 Yeu ES
+
+svn complete-<are-com
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 51 of 57
+
+POLANCO, Diverdy DOG: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:D0S 25-1-20 DivardyPolanco-NPintake }
+
+G> Complete Care-
+
+Patient Nam Ditacdy Polanco
+
+Nombre del Pacem
+
+‘Complete Care Centers LLC is proud serve its patients as an tegrated health are system forthe injure.
+Complete Care Center, LLC eenorullec de evr ss pacientes cone wn stoma itera de atncin ma para les lesions.
+
+Services offered based on medical necessity include, bu are not Himited 0:
+Tos servicios ofrcides basader en la neces mica icon por moe &
+Chiropractic Treatment
+Tratamiento Qirpricico
+
++ age
+* aera”
+
+4+ Dorable Medial Egspment
+Pauipo Mice Dara
+© Medial Examination aed Serves
+amen Sorc ioe
+1 Mapneti Resonance Imaging (MR)
+Imagenes de Resonance Magic RN
++ Intercntonal Pain Management Serices
+Scion de ramtent te Dolor Por ltervesin
++ Onhop Services
+Somes Oops
+1+ Nearology Series
+
+Patients have the right to teat anywhere they choose. Patients can treat in any ofthe thre branches of Complete Care
+Centers, LLC based on medical nocesity andr with any external provider or fit of their choosing.
+
+‘Lx pects tenon derecho a reir otal on llegar qe lian Los pacientes pce recibir ramon encuauier de
+tare sacrsles de Complete Care Contr, LLC en finde la nes mio 0 con chalirproneder enter o cent de
+
+\When you get emergency cae or get tated by an out-of-network provide ata in-network hospital or ambulatory surgical
+‘enter, you are protected from surprise billing or Balance biling. More deal on your rights and protections agains surpese
+‘medical bils are poste by the fron desk, avaiable at htps/ yw complss-crecomno-surpse-billing/ or can be printed
+upon reques.
+
+Chao rib tein de urgencia le rats un proveedo ura de la een wn hospital o centro guiringicoambulatero de la ed est
+provid rentals fctrasorprenao lfc te sad. Fk ecepcion encontrar mas nformanion sores derechos
+brovccones emt als facts mad Sorpres. que pox const om i Leama car coms bla” yin lo
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 52 of 57
+
+POLANCO, Diverdy DOG: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:D0S 25-1-20 DivardyPolanco-NPintake }
+
+&> Complete Care:
+
+‘TERMS AND ACCEPTANCE AND CONSENT FOR CARE,
+(CONDICIONES V ACEPTACION ¥ CONSENTIMIENTO PARA LA ATENCION
+
+We will tempt to Meni and dagnose any silent you may have tha may be corrected through physical medicine activepasive
+‘ehabiliation, agostic imaging andor chiropractic care andor hopes divine Iacono disse appears to be present
+‘ut four scope by practic, we wil efer you to an appropriate physician to daphose andrea that condom. Though specific
+[osedures, we reduce andr correct ysl or physiological dstrbance maybe necessary to examine ain each ae 8
+‘ew injury occurs and oe rays or ater dagotc procedures are necesiar to maintain he won! aft hen Jang ih Sout
+tbody. Theis of onhopei pls medline dlgmstc maging an chiropractic medicine ar minal when dealing With
+iene professional; however io haveconcems about these ks please ess he th the de pete amino.
+
+‘Inemaremosidenificrydignostiorcusyaierdolenca ge pede tne ye put ser orregica a tras del medina fie
+‘rchailucion atv psa. ef dhapntice por agen leon guroprctica 0 macna oriapdcn Saga sondiion ©
+‘enfermedad parece estar presente fora de mac mbto de préciale mire aon mac aropiats para dagratice ye
+‘rar esa condition 4 wands de procedimenes especies, redhcinns yo corepiostheracons eas fatoigies Pt set
+‘ecesro examina” aunt cas veges prod ua tac Kin. mond son necks reogrefias wren,
+‘procedomints de dyno para manne a main segura ol rata com cuerpo, Lat eso dla cnet,
+‘icing fea ef haga or imagen la medina qtr son minimos cuando Se ata de profesional cn cee: 3
+bar. sile preocapan enor engon comnts con cl mice antes dl eae
+
+"have rad and fly understand the above ers acceptance hereby give my consent to Compete Cre Centers, LLC evans
+‘me and determine my conditon and treat me for such conn, also understand tha ay aay ine dcontinae wih he exam
+dor treatment fT 0 hove,
+
+He edo yemendo completamente ros de aceptacin anteriores. Parla presente dey mi conseinient a Complete Care
+‘Centers LLC pra gue me eve» deteronin mt omtony me tae por dchasconhcione. Tambien ented gue Ped
+
+nalier mamont scotia cone eamen 0 tratamiento di,
+1 iva, rea and fly understand the above statements
+is ‘atiat Name PRINTED ‘he eid ycomprendide plement as declaraconcs anteriores
+
+Nome dl Packntes IMPRESO
+
+Pome Fok
+FOR MINORS ONLY:
+
+SOLO PARA MENORES:
+
+h, ing the legal guia of
+
+15 Gunes Name PRINTED sulci ons a
+Nombre del Tator=IMPRESO
+
+‘have read and ily understand the above ems of acceptance and hereby grant persion to Compete Care Centr, LC for my child
+
+{oe eval the condition determined and to recive weatmet for such cndins Talus undeatand tat may a ine
+
+‘isconinae wth he exam andlor eaten! 0 choos,
+
+‘elie yemtendd completamente lo trminas de aceptacion arriba mencionaos or la presen concedopermiso a Complete
+Gare Comers LLC para qe mij se evaluat, comico dominant para tater condone
+
+ParewiKGunrdian Sgnatare Date
+Firma del Pe Tur Pecks
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 53 of 57
+
+POLANCO, Diverdy DOG: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:D0S 25-1-20 DivardyPolanco-NPintake }
+
+&> Complete Care~
+
+NOTICE OF PRIVACY PRACTICES:
+
+amp Cn Cee 1 (CCC raya mana te afoul ath nematon Te Nae ey
+‘asics yuo fc man may bend ow CCC hea mata mea ed Tae
+‘tee ite nda yeu peed ema Ara of CC dae as Na a Pom Pn ca ee
+‘Sesopn urges COC ore on emt Rate hres Peneamenty ete CC my ag ems af aa
+‘hcange mente etn al peated nomen ar ne Need mes pe) ees wean
+(C6 ibe way el apn us Un od Deo ramon
+
+Pte eat emanates epic al nkaaion  nete  js see s  e
+‘aoa nd Dompsps whem al vier oe anal cy aoe mao
+‘Soi aagtprsn Paha nem ou sc mane srs ead ope
+Friel athena shah mented cet) phan cbr sens CCC
+‘Sttasnhefhe hve anes ope Thome mma hecy CO may nfm dane ese
+ct a fomaan may betoet Sassy CCC ke pars af ous pao ea sas
+
+etfs ie mab nfm te st op ec oo Yop hs iene ad
+thet oe hae bai ffenestr on
+eee yer tera ny nc canon pean ene poe CC ae
+Sntyourgyonmct oth sma ths en pao era anes sn cs So oes
+‘Staton nse ow Sonor urs ase eT cc se
+
+epg of hen, a dal pone
+‘ements fe
+‘tn a tng Gln Ge an st sf Pg A a
+intcicm pecs naig i tn dome pig pete, enn
+‘eaten ah peo
+Dancin ec estos
+Ronny CCC
+
+esr ee
+
+owt edo CCE ci enc dichotomy ah
+tn Yo my nme dco taal shoe COC hte oa ees as i
+‘Soe your mama itp aa CC ya cao wa hae pam ees Wei me come oe
+‘Sc manatee foe mane yout You my Ns oro ating yt epoca eno
+‘omy oie acronym a ay sameeren ihre on
+‘Note st tcl as nc Your mpc nen nl nope eae aa dod
+Teme netic Memes ndennd yokes trig mentary heed ee
+
+rss in as ena te in wae Tae cr wie pu CC
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 54 of 57
+
+POLANCO, Diverdy DOG: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:D0S 25-1-20 DivardyPolanco-NPintake }
+
+OD Complete Care
+
+Complete Care provides a process for patients to lade an oral, writen, or elephone complaint about the product and
+services provided. We have a complaint resolution system for idem) ns esponding io, and resolving complains ina
+
+timely manner. Ail written, oral and telephone complaints are documented sith the following information:
+
+‘Complete Care afree un proceso para qué los pacientes presenen wa quoja orl, escrta 0 telefnica sobre los productos y
+Servicios prestados.Tenemos wt sistema de resolucion de quejas para idenificar, responder y resolver las quejs de mamer de
+‘manera oportuna Todas las guejatexritas, ales yfelefanicas xe docimentan con la siguiente informacion
+
+‘Name, Address and Contact Informatio ofthe individual voicing the complaint
+Nombre, dirceiom e informaction de contact dela persona gu presenta a gist
++ Date received
+Fecha de recepoiin
+‘+ Name othe person receiving the complaint
+Nombre de la persona que recibe fa reclamaciin
+‘+A summary of actions taken ¥o resolve the complaint
+In restmen de las medidas alopeadas para resolver la reclamactiny
+‘+ fan investigation snot conducted the name ofthe person sho made that decison, along with the reason for
+‘ot conducting an investigation
+‘Sioae lle cabo uma hvestigacin, ef nombre de ka persona que tom’ esa decsin junto con la razin para
+tno realizar una nvestigacion
+‘Signature of supervisor
+Firma del sipervisor
+
+how to handle complaints. Copies ofl compan and investigations are kept on fle for
+
+Trades fos empleados recite formaciin sobre cémo gestionar las quejas. Las copias de das las qua © tnvesigaciones se
+Conservanenel archive dare ol menos 3 ho.
+
+Ifyou havea complain please contact us at (407) 977 — 3434
+Silene una ques ponguseen comacto con nasoirs ew el (407) 977 - 3434
+
+Additionally, you may contact Centers for Medicare and Medicaid Services (CMS) at 1(800) MEDICARE if needed.
+‘Ademas, puede ponerte en contacto com ls Centres de Servicon de Methcane} Meacand (C418) ene mamero 1800)
+MEDICARE x lomecesta
+
+Medicaid rad means an intentional deception or mistcpresentaton made bya health care provider with the knowledge that
+thee ld et name ward ent gy orl xc ana a
+erste rod under federal o ate lw Ylated to Maen. To root suspected Medial Frau, pease call the Attorney
+‘General titre at Ihe 900-7530, ”
+
+“To report a complaint reganing the services you receive, you may cll AHCA tollfee at 1-888-419-3456,
+‘Para comunicar una quaja sobre los servielos que rect, puede Hamar a la ANCA ol incr grata 1-888-419-3456
+
+‘To report abuse, neplect, or exploitation of a disabled adult or an elderly person, please cll ole a 1-800-962-2873.
+
+Para demumelar ef mation La egligoncts ola exploacion ce tt nul isco o persone Mayor Mame a imero
+‘grata 1-500-962"2873,
+
+deme Divarsy Polance
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 55 of 57
+
+POLANCO, Diverdy DOG: Sep 16, 1965 (39 yo M) Acc No. 255690
+[Doc Name:D0S 25-1-20 DivardyPolanco-DrNote }
+
+<O> Complete Care
+Bewrecranvecnssicrusioicie Fl
+
+sg oud cy
+
+ate:
+
+-Lfaaf2s__
+Patenintme:—Divardy Polanco
+
+‘Tstovepaert wage nous ody Y
+InuuRY/ACCIOENT XAMINATION ‘TReaTient
+Please note the appropriate action
++ Excuse this patient or ther appointment on.
++ Excuse thispatient from work/schooltrom_'/2ol26 tos [2a]2g_
++ Patient may return to work/school on, buts mit to ight dy
+‘+ Patient may retutn to work/schoo! on, With no restrictions.
+
++ Excuse the patient from iting over ts
+*+ Allow the patent a break every __ minutes/hour for.
++ The following activites need tobe tite:
+
+© Bending
+
+© Overhead Activities
+
+© Tait
+
+© Over exertion
+
+© Othe
+‘+ Excuse this patent from jury duty forthe following reasons
+
+© Cervical injury
+
+(© Thoracle/ mi ack injury
+
+© tumbar/ low back injury
+
+Condition prevents patient from sta
+
+ing and/or sting for extended periods of time as this would
+‘only exacerbate the condition.
+
+al
+
+Dr, Luis Lopez Rodriguez, D.C
+Dr. Stephanie Weiland, D.C,
+Dr. Bran Rice, DC.
+
+Dr. Carle Brush, D.C,
+
+‘Any questions or concerns please contact our office,
+
+Fax: 863-271-4605
+Provider Signature
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 56 of 57
+
+POLANCO, Dis
+[Doc Name:DOS 25-1-20 DivardyPolanco-MRIScreening }
+
+dy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+
+o> Complete Care
+
+Screening Form for Magnetic Resonance (MR) Procedures
+
+The following Rems could be harmful to you during your MR scan or may interfere with the MR examination.
+Please indicate it you have ony of tr followings
+
+1 Cordloe Pecemater
+
+a Aneunemep
+ implantedicardac defritotor
+| Nourostutator
+
+|@ Any electronic, mechanical or magnetic implant.
+
+spect
+‘Any internal aloctrodes or wiros
+Speci.
+{Any Implant eldin place bya magnet
+Specs
+‘a implantedbrva)
+‘chemotherapy, pain medicine)
+Spec.
+Please provide a Medical 10 card forthe folowing:
+| Any coll tor, or stent
+Speci
+1 aticainear vane
+ Aniealeye
+1 yok eping
+1 Cochiear implant
+@ Anyearimplant
+shunt
+Any metal object (6m, shrapnel bullet, 88
+plots); an x-Ray a the object is requied for
+Clearance before scheduing
+1 Loop Recorder: Neod 1 Carl AND Witten
+Ccaroiogist Clearance
++ Carlologists need o be avare to take
+{a data out of oop recorder before
+sanned andi eae to oan,
+| Pregnancy: Written Medical clearance trom 08
+
+2 Hearing A
+
+{a Medication patch (
+Neti)
+
+1 Removable dentures foes teeth or partial
+plato
+
+{© Wig or Hair Place (Mustremove for Bain,
+cervical or Upper Bremen)
+
+1 Body Piereng
+Speci it unable to remove:
+‘SelectAll other Implants or Devices:
+
+1 Heo Vort
+
+2 Spinal tation device
+
+1 Spinal fusion procedtre
+
+{8 Radlation seeds (te, cancer treatment)
+
+© Any surgical clip or taple
+
+Tissue Bender
+
+1 Diaphragm, 100 Pessary
+speci
+
+1 Anyi teme (a, pw rode sores
+Plotes, wres)
+Speci:
+
+ Artiicattmt ori
+Speci
+
+2 Surglealtess
+spect
+
+Any other type of mplanted am
+Specty
+
+Nivogyoerng,
+
+Divardly Polanco
+Seog ees alf20f2s
+
+POLANCO, Divardy DOB: Sep 18, 1985 (39 yo M) Acc No. 255890
+Page 57 of 57
+

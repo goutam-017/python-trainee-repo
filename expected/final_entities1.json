@@ -1,0 +1,25 @@
+{
+    "patient_info": {
+        "name": "Polanco, Divardy",
+        "dob": "09/18/1985",
+        "age": "39",
+        "gender": "Male",
+        "phone_number": "863-271-4600",
+        "address": "and Contact Informatio ofthe individual voicing the complaint"
+    },
+    "hospital_details": {
+        "hospital_name": "Complete Care Centers",
+        "visited_doctors": [
+            "Dr. Bran Rice",
+            "Dr. Carle Brush, D.C,",
+            "Dr. Luis Lopez Rodriguez",
+            "Dr. Stephanie Weiland, D.C,",
+            "Dr. Carlie Brash",
+            "Dr. Carlie Brush, D.C.",
+            "Dr. Brian Rice"
+        ]
+    },
+    "diagnosis": {
+        "disease_names": null
+    }
+}
